@@ -1,0 +1,852 @@
+ins_no,p_id,insurance_company,publish_date,exp_date,insurance_plan,entry_fee,cover_pay,cover_insurance,medicine_cover
+1009267,204753,Axa,2019-12-15,2062-06-20,"Family Floater Health Insurance Plan",73,868,86657,82401
+1011945,620113,"Kotak ",2019-11-29,2053-05-26,"Preferred Provider Organization  Plan",147,277,37348,22228
+1038506,794821,"Bajaj Allianz  ",2019-11-21,2064-12-27,"Preferred Provider Organization  Plan",132,1685,41231,91504
+1047511,233044,"Great-West Lifeco",2019-09-20,2052-08-03,"Critical Illness Insurance Plan",193,891,80254,77176
+1063223,402858,"SBI  ",2019-09-24,2062-09-23,"Preferred Provider Organization  Plan",88,571,59500,90163
+1065622,248222,Humana,2019-06-02,2052-01-17,"Preferred Provider Organization  Plan",108,1921,39381,50825
+1099601,765990,"New York  Company",2019-02-16,2051-09-07,"Preferred Provider Organization  Plan",84,1812,46514,46882
+1109136,963980,"American  ",2019-12-08,2051-04-03,"Individual Health Insurance Plan",65,1423,45765,70494
+1111929,838807,"Max Bupa Health ",2019-12-08,2063-01-16,"Preferred Provider Organization  Plan",89,865,43844,92206
+1119446,233890,"Meiji Yasuda Life",2019-02-16,2064-04-28,"Preferred Provider Organization  Plan",133,651,95474,45649
+1136719,106404,"Legal & General",2018-10-31,2052-03-21,"Senior Citizen Health Insurance Plan",173,553,53041,78928
+1144731,132878,Axa,2019-05-27,2060-05-08,"Family Floater Health Insurance Plan",147,505,65051,66825
+1150801,102591,"Prudential Financial",2019-12-23,2056-03-14,"Senior Citizen Health Insurance Plan",89,581,83294,15067
+1165595,229696,"Prudential plc",2019-10-13,2059-11-26,"Senior Citizen Health Insurance Plan",70,1683,83373,25761
+1166418,962429,"Japan Post",2019-06-05,2051-12-26,"Preferred Provider Organization  Plan",159,253,82947,87787
+1170636,719134,"Star Union Dai-Ichi  ",2019-08-16,2056-02-28,"Family Floater Health Insurance Plan",137,1094,55296,59538
+1171401,348899,"Meiji Yasuda Life",2019-07-28,2052-07-19,"Preferred Provider Organization  Plan",48,819,60994,99728
+1184834,163521,"Edelweiss Tokio  ",2019-01-15,2060-04-25,"Preferred Provider Organization  Plan",198,1856,30730,79306
+1186572,445667,"Aegon N.V.",2019-12-24,2053-02-12,"Critical Illness Insurance Plan",60,1378,97045,99587
+1189543,396187,"PNB MetLife India ",2019-02-06,2062-04-20,"Senior Citizen Health Insurance Plan",77,299,60167,41165
+1212179,251968,"Munich Re",2019-09-17,2060-12-02,"Senior Citizen Health Insurance Plan",171,1659,60618,79279
+1218935,613475,"Star Union Dai-Ichi  ",2019-11-23,2060-03-17,"Family Floater Health Insurance Plan",165,661,32918,57581
+1225269,559765,Humana,2019-09-15,2050-12-30,"Preferred Provider Organization  Plan",62,370,35796,93585
+1268089,609556,"Reliance  ",2019-07-17,2059-02-02,"Critical Illness Insurance Plan",170,862,58133,28486
+1283548,363920,"People's Company of China",2019-09-05,2051-01-15,"Critical Illness Insurance Plan",178,1796,32231,70366
+1290762,398565,"Reliance  ",2019-07-01,2056-04-05,"Critical Illness Insurance Plan",40,561,95412,43841
+1291209,975932,"Aditya Birla Health ",2019-07-13,2064-04-08,"Preferred Provider Organization  Plan",88,1579,40982,43154
+1291577,100740,Allianz,2019-12-23,2058-01-14,"Individual Health Insurance Plan",54,1377,59770,89679
+1296673,599835,"Exide  ",2019-08-19,2052-11-04,"Individual Health Insurance Plan",136,1400,93385,81334
+1336227,903997,"Bharti AXA  ",2019-03-14,2051-04-06,"Individual Health Insurance Plan",21,1481,33256,94630
+1343248,281150,"Future Generali India  ",2019-04-10,2061-06-04,"Family Floater Health Insurance Plan",80,1427,49159,71819
+1346249,402340,"Sahara India  ",2019-07-16,2053-10-28,"Health Maintenance Organization  Plan",134,1941,96379,34084
+1367558,750359,"Berkshire Hathaway",2019-10-20,2061-01-18,"Critical Illness Insurance Plan",80,402,76502,46509
+1377170,252658," Lic india",2019-11-05,2059-07-07,"Health Maintenance Organization  Plan",128,443,98980,24243
+1457480,573531,"LIC INDIA",2019-11-18,2056-01-02,"Health Maintenance Organization  Plan",188,1240,40287,44415
+1488688,956573,"Nippon Life",2019-11-26,2065-01-14,"Preferred Provider Organization  Plan",150,329,93280,59820
+1497390,453351,"Meiji Yasuda Life",2019-06-08,2057-03-25,"Preferred Provider Organization  Plan",186,1091,56995,59384
+1504229,596171,"Canara HSBC   ",2019-01-18,2064-04-07,"Critical Illness Insurance Plan",189,1296,91854,35689
+1510414,746158,Axa,2019-08-27,2059-11-20,"Individual Health Insurance Plan",168,1712,37839,85267
+1526960,185936,"Kotak ",2019-05-27,2058-03-22,"Preferred Provider Organization  Plan",3,1555,96460,30323
+1528736,203101,RSBY,2019-12-12,2061-07-30,"Health Maintenance Organization  Plan",6,499,81901,50099
+1534753,212555,"Assicurazioni Generali",2019-01-30,2052-11-24,"Health Maintenance Organization  Plan",51,1349,96437,71913
+1557959,550316,"China ",2019-11-26,2054-07-21,"Critical Illness Insurance Plan",145,522,37920,75434
+1558480,614376,"Tata AIA  ",2019-12-06,2063-09-20,"Senior Citizen Health Insurance Plan",76,1149,72481,58702
+1561222,715183,"SBI  ",2019-12-22,2050-08-29,"Preferred Provider Organization  Plan",41,1874,83660,29115
+1575183,642333,Axa,2019-09-27,2060-12-11,"Family Floater Health Insurance Plan",81,1751,64882,27302
+1589637,744449,"Cigna TTK Health ",2019-05-17,2054-01-11,"Family Floater Health Insurance Plan",52,527,58998,67546
+1591932,153415,"LIC INDIA",2019-11-02,2062-05-27,"Critical Illness Insurance Plan",186,1603,48824,92304
+1595816,608941,"PNB MetLife India ",2019-06-20,2063-12-06,"Senior Citizen Health Insurance Plan",189,991,48887,78999
+1608928,877245,"People's Company of China",2019-11-10,2057-07-26,"Senior Citizen Health Insurance Plan",181,1645,84298,69814
+1621631,148042,"Dai-ichi Life",2019-08-23,2051-08-07,"Health Maintenance Organization  Plan",8,790,41969,74801
+1626138,515347,"Cigna TTK Health ",2019-04-30,2064-04-30,"Senior Citizen Health Insurance Plan",153,1658,79481,84349
+1637391,241033,Anthem,2019-11-27,2062-01-24,"Preferred Provider Organization  Plan",158,1871,68440,17786
+1638724,961102,Aviva,2019-08-15,2064-04-29,"Health Maintenance Organization  Plan",134,1913,92683,54822
+1668652,331557,"Japan Post",2019-09-22,2056-03-28,"Individual Health Insurance Plan",85,1043,99324,98777
+1687988,472342,"Dai-ichi Life",2019-11-22,2053-10-11,"Health Maintenance Organization  Plan",22,1086,39482,11911
+1689350,286495,"PNB MetLife India ",2019-12-04,2061-03-18,"Senior Citizen Health Insurance Plan",82,1439,56948,84867
+1693440,951156,PMSBY,2019-11-18,2061-06-15,"Senior Citizen Health Insurance Plan",30,1136,75802,73716
+1694015,824776,"L&T ",2019-07-26,2053-01-19,"Preferred Provider Organization  Plan",131,1633,42158,37989
+1698898,664124,"LIC INDIA",2019-07-31,2063-09-06,"Family Floater Health Insurance Plan",179,1895,86265,97274
+1744119,885273," Lic india",2019-03-29,2060-02-18,"Critical Illness Insurance Plan",112,1767,53622,13354
+1746801,733620,"IFFCO-Tokio ",2019-02-01,2064-07-21,"Critical Illness Insurance Plan",145,1014,64066,28493
+1751085,304527,"Reliance ",2019-07-10,2059-08-09,"Health Maintenance Organization  Plan",162,750,35619,78074
+1755309,888257,"Health Care Service ",2019-02-17,2064-12-10,"Individual Health Insurance Plan",138,778,55547,98631
+1756720,473413,MetLife,2019-01-20,2056-05-07,"Preferred Provider Organization  Plan",146,1952,91048,63994
+1769657,521460,"Nippon Life",2019-06-15,2064-02-13,"Individual Health Insurance Plan",22,651,77866,80921
+1793552,600600,"HDFC Standard  ",2019-03-25,2053-07-14,"Senior Citizen Health Insurance Plan",5,965,33403,58920
+1795327,617945,"Future Generali India ",2019-11-10,2061-09-09,"Family Floater Health Insurance Plan",114,929,39799,89445
+1806373,461397,"People's Company of China",2019-09-20,2062-02-10,"Critical Illness Insurance Plan",184,1417,36644,90983
+1812204,935191,"Kotak ",2019-10-23,2058-11-02,"Health Maintenance Organization  Plan",188,364,53039,96292
+1818793,176440,"Bajaj Allianz ",2019-08-30,2062-04-20,"Health Maintenance Organization  Plan",90,1397,50381,34501
+1823927,762151,"JA Kyosai",2019-04-27,2061-12-24,"Preferred Provider Organization  Plan",43,942,81921,86934
+1825844,223878,"CNP Assurances",2019-02-03,2062-12-28,"Health Maintenance Organization  Plan",108,1712,64170,96883
+1838105,781926,"China Pacific Company",2019-11-17,2052-07-28,"Health Maintenance Organization  Plan",32,1050,89003,11921
+1846034,202688,PMSBY,2020-01-02,2053-03-21,"Critical Illness Insurance Plan",25,311,72879,56755
+1861109,491764,"SBI  ",2019-05-26,2064-04-11,"Preferred Provider Organization  Plan",147,1536,49239,46830
+1878328,137332,Humana,2019-09-01,2062-07-05,"Preferred Provider Organization  Plan",52,1061,42565,99573
+1883924,412760,"L&T ",2019-07-04,2061-10-05,"Individual Health Insurance Plan",174,1458,66282,22789
+1892802,913389,"IndiaFirst  ",2019-11-03,2064-05-29,"Health Maintenance Organization  Plan",197,1763,37710,62163
+1934554,387354,"Exide  ",2019-02-27,2065-04-07,"Individual Health Insurance Plan",180,294,94344,13992
+1958578,626671,"SBI ",2019-08-24,2058-12-06,"Individual Health Insurance Plan",153,733,72895,51810
+1967273,147115,"Nippon Life",2019-06-27,2054-03-24,"Individual Health Insurance Plan",90,1743,60899,81723
+1982363,548194,"Ping An",2019-04-08,2052-07-17,"Senior Citizen Health Insurance Plan",74,1871,35373,66382
+1984641,153065,"Progressive ",2019-05-28,2060-01-01,"Senior Citizen Health Insurance Plan",152,1275,72394,50545
+2003934,743861,"Max Bupa Health ",2019-11-04,2056-02-06,"Preferred Provider Organization  Plan",62,1447,67675,83692
+2010477,503336,"SBI ",2019-10-11,2064-09-17,"Individual Health Insurance Plan",167,782,72968,71845
+2014815,744979,PMJJBY,2019-05-09,2060-09-08,"Health Maintenance Organization  Plan",180,474,98371,16760
+2014847,328428,"Assicurazioni Generali",2019-01-19,2060-02-20,"Health Maintenance Organization  Plan",67,983,30640,95554
+2019639,128982,"China ",2019-05-20,2061-12-04,"Critical Illness Insurance Plan",193,579,70720,88961
+2032188,204452,Allianz,2019-02-18,2058-04-26,"Individual Health Insurance Plan",198,681,90635,38637
+2033086,122336,"JA Kyosai",2019-11-30,2050-09-28,"Individual Health Insurance Plan",137,1123,87181,39888
+2034231,738441,"SBI ",2019-04-17,2063-06-14,"Preferred Provider Organization  Plan",105,738,74791,43602
+2043177,861873," Lic india",2019-10-29,2053-04-29,"Individual Health Insurance Plan",8,880,79780,34074
+2051344,153568,"Aegon  ",2019-05-19,2058-04-11,"Health Maintenance Organization  Plan",161,927,37775,64267
+2092300,355386,"Kaiser Permanente",2019-08-21,2061-11-22,"Individual Health Insurance Plan",127,302,80681,68955
+2093502,771586,Axa,2019-05-02,2058-09-30,"Individual Health Insurance Plan",179,733,84518,91136
+2109267,352125,"Ping An",2019-11-15,2053-03-21,"Senior Citizen Health Insurance Plan",70,1792,60534,80345
+2111604,498331,"ICICI Lombard ",2019-11-24,2057-11-22,"Critical Illness Insurance Plan",25,1023,87238,43212
+2137134,437859,MetLife,2019-05-19,2064-01-22,"Preferred Provider Organization  Plan",101,422,43791,39513
+2144672,907073,"Birla Sun  ",2019-06-19,2052-05-25,"Family Floater Health Insurance Plan",53,1644,83280,99996
+2148435,844899,"Prudential Financial",2019-05-12,2060-02-17,"Family Floater Health Insurance Plan",101,252,63810,73491
+2188938,220960,"Dai-ichi Life",2019-05-25,2058-02-24,"Senior Citizen Health Insurance Plan",154,1318,57263,88802
+2189227,250162,"Berkshire Hathaway",2019-05-23,2057-09-01,"Family Floater Health Insurance Plan",63,426,87509,77225
+2223555,832935,"Shriram ",2019-12-11,2050-11-07,"Individual Health Insurance Plan",26,1124,50158,44040
+2224894,793918,"Aegon  ",2019-04-12,2061-10-21,"Critical Illness Insurance Plan",125,327,89571,64413
+2261620,847235,"China ",2019-10-25,2053-03-28,"Individual Health Insurance Plan",2,1561,41115,56480
+2262382,783073,"Health Care Service ",2019-09-16,2057-01-19,"Individual Health Insurance Plan",171,566,84263,93668
+2263341,867489,"Ping An",2019-12-06,2057-02-10,"Family Floater Health Insurance Plan",103,1740,77389,25705
+2290261,625814,"Royal Sundaram Alliance ",2019-11-14,2058-10-30,"Preferred Provider Organization  Plan",62,670,57671,27641
+2304764,794633,"Aviva  Co. India Ltd.",2019-03-16,2062-10-30,"Health Maintenance Organization  Plan",100,273,92554,82671
+2312189,882255,"Munich Re",2019-07-15,2064-04-08,"Family Floater Health Insurance Plan",69,1475,64293,87875
+2314209,429842,Axa,2019-08-12,2056-09-30,"Family Floater Health Insurance Plan",54,689,51257,38355
+2321817,342431,"JA Kyosai",2019-07-25,2050-12-27,"Individual Health Insurance Plan",199,443,60525,82551
+2335593,642976,"Ping An",2019-07-30,2057-08-01,"Critical Illness Insurance Plan",33,533,49556,75841
+2345454,492830,"Star Union Dai-Ichi  ",2019-06-02,2055-01-30,"Family Floater Health Insurance Plan",167,1840,50776,96523
+2347767,785629,HDI,2019-09-22,2062-02-22,"Senior Citizen Health Insurance Plan",104,1980,34839,48271
+2350270,200328,"Max Bupa Health ",2019-08-04,2052-03-12,"Individual Health Insurance Plan",178,551,90095,44827
+2363767,712392,"Reliance  ",2020-01-01,2051-04-27,"Critical Illness Insurance Plan",51,1842,32505,14831
+2401939,138832,"Berkshire Hathaway",2019-11-02,2064-02-25,"Family Floater Health Insurance Plan",166,1675,88705,70717
+2421779,752207,"Manulife Financial",2019-07-05,2050-10-31,"Senior Citizen Health Insurance Plan",52,1882,57045,75876
+2450452,744535,PMSBY,2019-10-22,2063-03-22,"Senior Citizen Health Insurance Plan",120,1649,79429,52782
+2462443,673930,"China ",2019-04-19,2062-11-13,"Critical Illness Insurance Plan",105,768,39396,57782
+2471715,894678,"Liberty Mutual",2019-02-17,2051-07-05,"Preferred Provider Organization  Plan",40,1092,31203,66238
+2474532,714192,"Sahara India  ",2019-12-02,2055-01-04,"Health Maintenance Organization  Plan",38,1961,55090,57792
+2478381,708611,"IDBI Federal  ",2019-03-29,2054-10-29,"Health Maintenance Organization  Plan",58,1393,45606,88284
+2487971,162659,"DHFL Pramerica  ",2019-09-14,2050-06-07,"Health Maintenance Organization  Plan",178,780,49340,48845
+2500391,205871,"Prudential Financial",2019-12-15,2056-03-31,"Senior Citizen Health Insurance Plan",138,765,97550,94844
+2501964,481085,"DHFL Pramerica  ",2019-12-16,2052-06-15,"Health Maintenance Organization  Plan",97,1032,45271,79766
+2520470,907658,"Canara HSBC   ",2019-07-20,2053-07-01,"Senior Citizen Health Insurance Plan",76,1078,61328,81236
+2529089,416122,"SBI ",2019-06-30,2064-04-16,"Individual Health Insurance Plan",96,335,55602,60028
+2561039,671394,"Ping An",2019-11-05,2060-01-07,"Senior Citizen Health Insurance Plan",156,1726,40941,36018
+2567947,620435,"L&T ",2019-09-11,2059-09-20,"Individual Health Insurance Plan",121,1846,46700,58408
+2569235,811005,"SBI  ",2019-12-27,2065-06-24,"Health Maintenance Organization  Plan",102,1065,99924,45627
+2573599,117631,"CNP Assurances",2019-11-21,2061-08-24,"Health Maintenance Organization  Plan",55,720,48853,68846
+2576310,935511,"L&T ",2019-08-02,2051-03-10,"Preferred Provider Organization  Plan",106,1674,81650,10227
+2583218,843505,Allianz,2019-09-19,2059-11-22,"Preferred Provider Organization  Plan",26,1224,76774,73219
+2602552,487952,"IndiaFirst  ",2019-09-10,2057-12-08,"Preferred Provider Organization  Plan",53,1729,35785,54124
+2602662,711799,"PNB MetLife India ",2019-11-27,2056-11-25,"Senior Citizen Health Insurance Plan",177,825,60557,98924
+2606982,807165,"IDBI Federal  ",2019-04-06,2064-02-26,"Critical Illness Insurance Plan",62,1745,68315,44836
+2608400,487069,"IDBI Federal  ",2019-12-16,2057-02-08,"Health Maintenance Organization  Plan",98,713,56286,15086
+2609945,161051,"Canara HSBC   ",2019-11-10,2053-10-12,"Critical Illness Insurance Plan",159,762,61594,32498
+2614840,647071,MetLife,2019-02-26,2060-04-22,"Preferred Provider Organization  Plan",111,870,45193,65306
+2615491,861047,"JA Kyosai",2019-06-28,2050-12-10,"Preferred Provider Organization  Plan",165,1384,37027,31813
+2620300,574592,"Nippon Life",2019-08-26,2063-04-14,"Individual Health Insurance Plan",130,428,61764,62672
+2625383,782518,"Nippon Life",2019-06-20,2057-11-17,"Preferred Provider Organization  Plan",37,1767,42068,71735
+2629961,826825,"Raheja QBE ",2019-11-05,2052-08-01,"Senior Citizen Health Insurance Plan",157,1658,98198,20241
+2630974,547957,"UnitedHealth ",2019-11-10,2065-02-10,"Family Floater Health Insurance Plan",35,1371,98021,86714
+2641101,328479,Aviva,2019-06-18,2059-03-27,"Preferred Provider Organization  Plan",21,330,75283,34873
+2645007,862749,"Prudential plc",2019-05-21,2052-12-30,"Family Floater Health Insurance Plan",91,1135,71322,50965
+2664607,302004,"L&T ",2019-07-21,2064-04-01,"Individual Health Insurance Plan",115,1989,32375,57897
+2667412,538020,"LIC INDIA",2019-06-08,2064-07-30,"Family Floater Health Insurance Plan",37,922,79618,20590
+2672572,765774,"Meiji Yasuda Life",2019-10-21,2058-10-05,"Health Maintenance Organization  Plan",192,1821,34483,56714
+2688005,770872,Anthem,2019-01-05,2059-12-05,"Health Maintenance Organization  Plan",139,1029,49092,54044
+2690875,577642,"JA Kyosai",2019-04-28,2061-06-19,"Senior Citizen Health Insurance Plan",195,408,74474,26609
+2695484,552320,Axa,2019-02-20,2058-08-28,"Family Floater Health Insurance Plan",89,382,46336,23188
+2705132,257583,"Health Care Service ",2019-08-08,2052-09-09,"Family Floater Health Insurance Plan",69,1606,70400,30830
+2708700,859370,"CNP Assurances",2019-02-01,2052-11-10,"Critical Illness Insurance Plan",191,665,56080,88502
+2709403,894477,MetLife,2019-11-07,2065-03-06,"Health Maintenance Organization  Plan",39,281,80260,13395
+2724838,500043,"Kotak ",2019-12-19,2060-10-30,"Preferred Provider Organization  Plan",108,1602,81609,48187
+2739169,408630,"Cholamandalam ",2019-05-23,2056-02-07,"Individual Health Insurance Plan",85,372,49746,56559
+2741778,677133,Axa,2019-05-13,2065-01-13,"Family Floater Health Insurance Plan",75,1002,34878,61974
+2786386,130403,Anthem,2019-01-29,2054-02-21,"Preferred Provider Organization  Plan",74,364,99462,27695
+2795129,731790,"HDFC ERGO ",2019-05-09,2054-07-29,"Family Floater Health Insurance Plan",50,328,83707,23918
+2815916,817304,"Bharti AXA ",2019-11-06,2054-06-11,"Health Maintenance Organization  Plan",168,1559,45866,93479
+2820024,143277,"CVS Health",2019-09-11,2064-08-26,"Critical Illness Insurance Plan",119,502,41379,78401
+2834471,270175,"Aviva  Co. India Ltd.",2019-10-16,2061-11-29,"Preferred Provider Organization  Plan",79,275,38834,21295
+2840904,380115,"Progressive ",2019-03-20,2059-05-30,"Family Floater Health Insurance Plan",53,361,64472,91804
+2842221,455719,"Ping An",2019-05-30,2064-10-13,"Senior Citizen Health Insurance Plan",116,1783,66197,57805
+2847994,381474,"Aegon  ",2019-05-30,2057-11-06,"Health Maintenance Organization  Plan",87,350,63518,88728
+2852849,384706,"Edelweiss Tokio  ",2019-11-13,2057-10-23,"Preferred Provider Organization  Plan",119,1583,89964,82887
+2860971,138762,"State Farm",2019-05-16,2063-08-26,"Individual Health Insurance Plan",186,981,32635,69753
+2884324,269834,"Aegon  ",2019-01-12,2060-06-02,"Health Maintenance Organization  Plan",164,370,82784,11687
+2898420,670635,"UnitedHealth ",2019-07-19,2062-09-06,"Family Floater Health Insurance Plan",179,1533,61926,29694
+2904873,689711,HDI,2019-08-17,2057-11-10,"Critical Illness Insurance Plan",75,493,40982,72752
+2914081,775998,"Assicurazioni Generali",2019-02-19,2060-08-13,"Critical Illness Insurance Plan",117,1488,73780,27790
+2925589,927028,"Tata AIA  ",2019-10-28,2064-06-18,"Family Floater Health Insurance Plan",57,349,56653,52961
+2938487,260932,HDI,2019-11-12,2065-05-24,"Critical Illness Insurance Plan",68,1251,49865,99779
+2942133,777305,"State Farm",2019-05-24,2060-07-19,"Preferred Provider Organization  Plan",89,1276,54396,89557
+2953724,237502,"China ",2019-08-21,2053-12-28,"Critical Illness Insurance Plan",148,410,80352,75732
+3016333,858032,"Aegon N.V.",2019-09-20,2050-06-13,"Senior Citizen Health Insurance Plan",35,1664,54321,12181
+3026717,205919,"Ping An",2019-09-17,2060-10-12,"Critical Illness Insurance Plan",32,1249,62199,31318
+3040792,261910,"Dai-ichi Life",2019-12-26,2054-10-07,"Health Maintenance Organization  Plan",164,686,30928,85311
+3049661,484753,"HDFC Standard  ",2019-11-26,2054-06-08,"Senior Citizen Health Insurance Plan",143,1395,51233,29536
+3072387,419307,"Apollo Munich Health ",2019-05-10,2051-03-14,"Health Maintenance Organization  Plan",139,592,99765,16654
+3081438,312196,"Star Health Allied ",2019-08-19,2056-06-24,"Preferred Provider Organization  Plan",116,983,31360,26394
+3082215,650955,"Assicurazioni Generali",2019-01-19,2058-07-28,"Health Maintenance Organization  Plan",9,1603,67320,59927
+3084028,660880,"Aegon N.V.",2019-12-03,2064-10-26,"Critical Illness Insurance Plan",107,1696,44797,19903
+3099864,144631," Lic india",2019-08-29,2055-02-17,"Health Maintenance Organization  Plan",12,1561,70128,14898
+3106776,759273,"CNP Assurances",2019-12-03,2061-08-18,"Critical Illness Insurance Plan",197,363,94466,31745
+3114097,475512,"Aviva  Co. India Ltd.",2019-07-25,2062-09-30,"Preferred Provider Organization  Plan",2,796,43133,83083
+3123518,115508,"Aegon N.V.",2019-12-08,2058-10-16,"Critical Illness Insurance Plan",153,1791,61713,89837
+3135368,241544,"Kaiser Permanente",2019-10-28,2063-09-25,"Individual Health Insurance Plan",86,812,49648,10009
+3137547,711798,"Max  ",2019-05-01,2051-05-07,"Family Floater Health Insurance Plan",26,1508,81607,50695
+3160453,780536,"LIC INDIA",2019-10-13,2059-08-27,"Critical Illness Insurance Plan",35,1915,73640,20809
+3164203,379984,"Liberty Mutual",2019-10-13,2057-06-03,"Individual Health Insurance Plan",86,1174,71514,82674
+3182537,750668,"Nippon Life",2019-11-21,2052-08-29,"Preferred Provider Organization  Plan",78,1456,48116,90013
+3186069,478828,"Canara HSBC   ",2019-10-04,2052-04-27,"Critical Illness Insurance Plan",181,301,74936,80458
+3189450,664026,"JA Kyosai",2019-10-28,2055-04-22,"Individual Health Insurance Plan",189,1180,78586,81631
+3191677,679991,"State Farm",2019-09-11,2050-08-19,"Individual Health Insurance Plan",28,1763,45555,46873
+3198781,573859,"China Pacific Company",2019-12-08,2060-09-07,"Preferred Provider Organization  Plan",170,837,38276,10556
+3203775,135568,"People's Company of China",2019-09-15,2061-08-28,"Critical Illness Insurance Plan",66,356,96730,32827
+3213131,474802,"Progressive ",2019-03-24,2057-02-18,"Senior Citizen Health Insurance Plan",66,1246,56537,37114
+3221515,849126,"Manulife Financial",2019-06-12,2065-03-18,"Senior Citizen Health Insurance Plan",47,908,57952,49080
+3232697,474246,"Progressive ",2019-12-21,2064-10-30,"Family Floater Health Insurance Plan",161,1620,35993,17652
+3247653,156514,"Birla Sun  ",2019-02-10,2061-04-26,"Senior Citizen Health Insurance Plan",45,1778,31049,14622
+3250988,812149,"Shriram  ",2019-03-19,2056-10-06,"Preferred Provider Organization  Plan",130,1439,90174,72392
+3278973,493547,"Bajaj Allianz ",2019-12-17,2061-02-16,"Health Maintenance Organization  Plan",21,820,61224,81677
+3279057,855647,"Japan Post",2019-10-02,2055-01-04,"Preferred Provider Organization  Plan",61,1431,80786,69334
+3285058,299489,"IFFCO-Tokio ",2019-09-15,2052-02-21,"Health Maintenance Organization  Plan",18,1437,41049,25217
+3310797,473662,"Liberty Mutual",2019-10-11,2064-02-09,"Individual Health Insurance Plan",25,1923,43066,39537
+3321218,319370,Axa,2019-06-30,2053-07-02,"Family Floater Health Insurance Plan",41,1622,88018,26351
+3323674,850599,"Assicurazioni Generali",2019-03-31,2052-03-27,"Critical Illness Insurance Plan",87,517,36148,11532
+3335806,624642,"Magma HDI ",2019-11-04,2058-03-08,"Senior Citizen Health Insurance Plan",106,1330,96723,35747
+3344095,475564,"Bajaj Allianz  ",2019-03-14,2057-11-28,"Individual Health Insurance Plan",42,896,47205,61198
+3348180,834748,"Universal Sompo ",2019-11-03,2051-10-11,"Senior Citizen Health Insurance Plan",133,1788,79920,13456
+3350389,477268,"Bharti AXA  ",2019-05-28,2059-02-13,"Family Floater Health Insurance Plan",7,1475,30844,36087
+3351479,743405,"Star Health Allied ",2019-12-16,2051-05-22,"Health Maintenance Organization  Plan",116,1256,61547,72547
+3361124,376725,HDI,2019-02-01,2064-07-13,"Critical Illness Insurance Plan",91,264,36964,13051
+3367367,819350,"Cholamandalam ",2019-08-04,2061-04-29,"Preferred Provider Organization  Plan",26,1571,43471,33688
+3374109,281381,"HDFC Standard  ",2019-09-25,2050-11-13,"Senior Citizen Health Insurance Plan",195,314,99856,33880
+3375255,518920,"Prudential Financial",2019-11-27,2062-05-01,"Senior Citizen Health Insurance Plan",172,565,45121,88897
+3379977,924828,"Shriram  ",2019-06-19,2059-05-10,"Preferred Provider Organization  Plan",93,300,30267,25353
+3393967,786938,"Dai-ichi Life",2019-11-22,2062-11-16,"Critical Illness Insurance Plan",164,682,43984,35743
+3402263,337815,"CNP Assurances",2019-09-07,2051-03-15,"Health Maintenance Organization  Plan",11,951,51998,95439
+3415641,191926,"Reliance ",2019-12-11,2064-02-02,"Health Maintenance Organization  Plan",192,1364,93617,70253
+3421447,931597,"HDFC ERGO ",2019-04-16,2056-12-05,"Family Floater Health Insurance Plan",35,406,85320,95992
+3426191,309475,"TATA AIG ",2019-07-23,2059-06-08,"Senior Citizen Health Insurance Plan",145,1686,87905,74439
+3427062,442783,"Japan Post",2019-12-03,2063-03-21,"Individual Health Insurance Plan",11,836,83992,29357
+3454274,382667,"Bajaj Allianz  ",2019-12-25,2055-07-23,"Individual Health Insurance Plan",93,1978,43488,25939
+3472760,522398,"China ",2019-09-19,2061-09-21,"Family Floater Health Insurance Plan",200,1531,70476,86909
+3479303,182706,"ICICI Lombard ",2019-07-19,2052-10-15,"Critical Illness Insurance Plan",159,1583,74771,58757
+3479568,409134,"Future Generali India ",2019-10-05,2055-06-22,"Family Floater Health Insurance Plan",72,369,41945,99755
+3516852,499824,"IFFCO-Tokio ",2019-03-09,2065-04-20,"Health Maintenance Organization  Plan",133,1611,87666,71736
+3521242,716910,"Shriram  ",2019-10-25,2063-06-10,"Individual Health Insurance Plan",138,1319,38666,59318
+3529047,868250,"China ",2019-11-29,2062-02-04,"Senior Citizen Health Insurance Plan",153,1599,82979,94131
+3534488,844698,Axa,2019-08-27,2055-09-12,"Individual Health Insurance Plan",66,315,93476,15016
+3546335,788593,"Progressive ",2019-07-11,2058-04-09,"Individual Health Insurance Plan",130,491,54282,72565
+3554693,177335,"Cholamandalam ",2019-02-03,2057-01-27,"Individual Health Insurance Plan",85,941,96920,61209
+3567395,165489,"Future Generali India  ",2019-09-04,2055-04-15,"Family Floater Health Insurance Plan",88,539,49270,78943
+3575378,648525,"Legal & General",2019-05-29,2059-10-25,"Senior Citizen Health Insurance Plan",20,1308,69329,14765
+3580471,214515,Aviva,2019-07-07,2052-02-19,"Preferred Provider Organization  Plan",56,1030,51647,42153
+3588551,197364,"TATA AIG ",2019-07-15,2059-09-23,"Senior Citizen Health Insurance Plan",146,1327,92434,89776
+3596533,353854,"Centene ",2019-07-15,2065-02-14,"Health Maintenance Organization  Plan",74,1334,49282,66346
+3621429,951366,RSBY,2019-07-20,2052-08-29,"Critical Illness Insurance Plan",132,419,79793,80767
+3631106,445544,"Dai-ichi Life",2019-06-19,2060-03-15,"Senior Citizen Health Insurance Plan",112,1679,57874,76604
+3631416,189381,"Liberty Videocon ",2019-09-18,2058-04-09,"Family Floater Health Insurance Plan",1,802,84215,92525
+3634398,771441,"Kaiser Permanente",2019-10-25,2056-04-18,"Preferred Provider Organization  Plan",126,1565,58642,15299
+3636025,165434,"Exide  ",2019-03-29,2065-02-20,"Individual Health Insurance Plan",18,1895,77963,73589
+3654739,927812,"Bajaj Allianz ",2019-07-23,2059-02-23,"Critical Illness Insurance Plan",7,315,50988,31422
+3657272,817211,"Bajaj Allianz ",2019-03-26,2058-03-03,"Critical Illness Insurance Plan",29,1424,97868,37020
+3665370,282234,"IDBI Federal  ",2019-09-04,2061-09-22,"Health Maintenance Organization  Plan",190,724,40817,90917
+3670794,140254,"Munich Re",2019-07-11,2057-07-25,"Senior Citizen Health Insurance Plan",114,503,84315,63766
+3692102,873247,Anthem,2019-08-28,2055-05-12,"Health Maintenance Organization  Plan",0,1118,54428,78236
+3695400,632555,"Universal Sompo ",2019-07-15,2056-12-08,"Critical Illness Insurance Plan",62,1103,70597,66926
+3696192,486308,"ICICI Prudential  ",2019-10-22,2064-06-20,"Critical Illness Insurance Plan",75,1400,38916,57238
+3713101,383632,"Bharti AXA  ",2019-02-28,2058-09-06,"Family Floater Health Insurance Plan",69,1138,91887,79236
+3726201,807981,"Max  ",2019-05-08,2055-01-17,"Individual Health Insurance Plan",174,1514,58531,77538
+3729961,466158,"CVS Health",2019-09-27,2054-09-19,"Critical Illness Insurance Plan",104,1697,87658,14369
+3739189,347370,"Great-West Lifeco",2019-11-25,2063-03-16,"Critical Illness Insurance Plan",65,940,32645,68337
+3763784,407561,"Bajaj Allianz ",2019-03-05,2059-03-15,"Health Maintenance Organization  Plan",5,1918,55841,54998
+3787075,839345,"Religare Health ",2019-08-29,2053-08-21,"Individual Health Insurance Plan",17,1489,91949,29207
+3816175,957364,"China ",2019-11-07,2052-06-25,"Individual Health Insurance Plan",2,1784,86803,36859
+3824637,295757,"Bharti AXA ",2019-11-19,2059-08-13,"Preferred Provider Organization  Plan",106,1467,64295,78833
+3830002,493470,"Aditya Birla Health ",2019-11-14,2058-12-17,"Critical Illness Insurance Plan",1,1134,33721,65183
+3849562,409927,"ICICI Lombard ",2019-05-25,2059-04-03,"Critical Illness Insurance Plan",30,454,77794,74067
+3871356,500807,"Liberty Videocon ",2019-11-27,2055-11-17,"Family Floater Health Insurance Plan",162,1841,59858,59703
+3882620,127206,"Meiji Yasuda Life",2019-02-04,2065-02-24,"Preferred Provider Organization  Plan",148,1512,67119,43537
+3912203,370602,"Munich Re",2019-03-13,2061-08-09,"Senior Citizen Health Insurance Plan",185,1987,48220,98663
+3919868,590228,"LIC INDIA",2019-11-05,2062-12-02,"Critical Illness Insurance Plan",39,1103,45857,22579
+3934175,901070,"Aegon  ",2019-11-24,2051-09-16,"Critical Illness Insurance Plan",99,647,42980,64307
+3951600,726445,"Bajaj Allianz ",2019-09-04,2055-08-19,"Health Maintenance Organization  Plan",46,384,36436,99875
+3957552,616575,"Bharti AXA ",2019-12-22,2055-03-28,"Preferred Provider Organization  Plan",124,831,86490,27429
+3972484,564835,"Berkshire Hathaway",2019-07-16,2057-07-04,"Family Floater Health Insurance Plan",129,1579,84885,66228
+3994152,377795,MetLife,2019-09-17,2058-05-25,"Preferred Provider Organization  Plan",147,890,51489,98150
+4038760,592917,"Aviva  Co. India Ltd.",2019-03-18,2051-06-13,"Preferred Provider Organization  Plan",53,321,54047,65454
+4044764,729927,"Future Generali India ",2019-02-09,2061-04-01,"Individual Health Insurance Plan",150,1606,51514,21171
+4052110,705876,"HDFC Standard  ",2019-11-14,2062-04-18,"Senior Citizen Health Insurance Plan",127,1028,69576,59550
+4088967,735356,"Magma HDI ",2019-04-25,2054-06-22,"Family Floater Health Insurance Plan",161,335,50554,21649
+4098096,543180,"New York  Company",2019-11-03,2063-03-20,"Individual Health Insurance Plan",92,1656,66665,94138
+4110203,627665,"TATA AIG ",2019-12-11,2054-12-14,"Senior Citizen Health Insurance Plan",187,986,83640,40015
+4111911,127916,"UnitedHealth ",2019-12-14,2060-11-02,"Family Floater Health Insurance Plan",129,1036,77482,93706
+4129440,527924,"American  ",2019-05-06,2057-05-03,"Family Floater Health Insurance Plan",128,318,57056,66809
+4151840,262632,MetLife,2019-05-29,2052-03-11,"Preferred Provider Organization  Plan",40,1258,82914,71673
+4152754,420776,"Max Bupa Health ",2019-08-14,2057-10-03,"Individual Health Insurance Plan",48,1506,54165,99218
+4153335,461959,"Assicurazioni Generali",2019-09-04,2064-01-12,"Health Maintenance Organization  Plan",171,1042,92950,62838
+4156666,677464,Allianz,2019-01-27,2052-05-15,"Senior Citizen Health Insurance Plan",129,1504,72347,88672
+4159445,812185,"Star Union Dai-Ichi  ",2019-06-09,2055-12-20,"Individual Health Insurance Plan",26,492,36202,72834
+4173738,541051,"Prudential plc",2019-12-03,2050-12-31,"Senior Citizen Health Insurance Plan",142,1471,62362,25699
+4174016,280441,"Exide  ",2019-09-04,2058-02-28,"Individual Health Insurance Plan",15,1183,86428,49910
+4177166,687945,"Health Care Service ",2019-11-18,2054-11-15,"Family Floater Health Insurance Plan",159,1189,87712,13182
+4179752,451654,"Prudential plc",2019-07-27,2053-07-20,"Senior Citizen Health Insurance Plan",131,1763,95135,96599
+4188824,652895,Aviva,2019-12-16,2057-03-22,"Preferred Provider Organization  Plan",198,966,81261,26313
+4190528,864664,"Great-West Lifeco",2019-12-15,2065-01-20,"Senior Citizen Health Insurance Plan",76,1531,41043,54096
+4191981,376520,"JA Kyosai",2019-01-31,2061-01-16,"Senior Citizen Health Insurance Plan",21,278,77461,67726
+4201515,211857,"Manulife Financial",2019-02-09,2051-05-10,"Critical Illness Insurance Plan",127,1621,84427,23204
+4212925,318885,Allianz,2019-08-04,2050-09-18,"Individual Health Insurance Plan",158,347,75604,97331
+4217134,729364,"Cholamandalam ",2019-08-04,2055-03-18,"Preferred Provider Organization  Plan",188,1326,85009,35317
+4240453,303439,"Magma HDI ",2019-09-24,2053-07-03,"Senior Citizen Health Insurance Plan",115,1629,84724,45629
+4250380,953421,Axa,2019-08-12,2054-02-09,"Individual Health Insurance Plan",168,1892,80969,27497
+4288835,320291,"Berkshire Hathaway",2019-08-12,2058-04-06,"Health Maintenance Organization  Plan",53,1943,67678,84297
+4311004,944177,"Universal Sompo ",2019-11-04,2052-12-15,"Senior Citizen Health Insurance Plan",95,1727,44641,56142
+4320817,125365,"Great-West Lifeco",2019-05-06,2054-08-19,"Critical Illness Insurance Plan",0,1910,89718,43154
+4328500,508549,"Apollo Munich Health ",2019-10-10,2054-02-12,"Health Maintenance Organization  Plan",119,1933,53641,42771
+4331562,301571,"Kotak ",2019-04-25,2054-06-11,"Preferred Provider Organization  Plan",106,491,95197,74536
+4348253,930358,"Future Generali India ",2019-02-21,2051-02-07,"Individual Health Insurance Plan",138,1320,66261,71751
+4360727,350339,"UnitedHealth ",2019-12-07,2062-12-29,"Family Floater Health Insurance Plan",104,777,67817,78682
+4367461,796541,"Bharti AXA  ",2019-01-09,2061-11-13,"Individual Health Insurance Plan",138,1137,43495,17100
+4380817,471118,"JA Kyosai",2019-12-25,2051-02-20,"Senior Citizen Health Insurance Plan",72,515,49490,15177
+4398418,438386,"Legal & General",2019-07-27,2057-07-01,"Senior Citizen Health Insurance Plan",12,651,54466,11196
+4400678,130930,"Kaiser Permanente",2019-01-15,2061-09-13,"Individual Health Insurance Plan",132,1670,62931,95246
+4405527,775627,"People's Company of China",2019-05-09,2064-09-20,"Senior Citizen Health Insurance Plan",15,1975,60583,45913
+4415828,833388,"TATA AIG ",2019-03-17,2052-03-14,"Family Floater Health Insurance Plan",28,1662,35215,30466
+4427514,954066,"Prudential Financial",2019-01-21,2053-01-20,"Family Floater Health Insurance Plan",89,1544,45805,31691
+4432776,211728,"Legal & General",2019-03-21,2058-10-05,"Senior Citizen Health Insurance Plan",112,1452,48454,16691
+4433083,619742,"IFFCO-Tokio ",2019-10-20,2061-11-05,"Health Maintenance Organization  Plan",26,1656,57432,47158
+4435611,769974,"China ",2019-02-14,2054-01-30,"Senior Citizen Health Insurance Plan",87,904,62211,29918
+4457471,409285,"HDFC ERGO ",2019-06-13,2060-06-08,"Senior Citizen Health Insurance Plan",190,1658,83101,90345
+4466387,426545,PMJJBY,2019-03-25,2054-09-22,"Preferred Provider Organization  Plan",31,1906,90768,40544
+4467833,584766,"Progressive ",2019-01-24,2063-01-12,"Senior Citizen Health Insurance Plan",55,423,64299,11843
+4479647,855685,"American  ",2019-07-25,2056-01-13,"Individual Health Insurance Plan",18,540,97782,89452
+4480849,881193,"Berkshire Hathaway",2019-07-27,2052-04-02,"Individual Health Insurance Plan",110,740,68278,16377
+4530181,698718,"Aviva  Co. India Ltd.",2019-11-07,2053-02-27,"Preferred Provider Organization  Plan",89,350,32871,35946
+4542599,275692,"DHFL Pramerica  ",2019-09-30,2061-04-28,"Health Maintenance Organization  Plan",113,1690,42621,29089
+4551543,147317,"Health Care Service ",2019-10-17,2054-01-17,"Family Floater Health Insurance Plan",79,1107,90846,57723
+4585761,490246,"Max  ",2019-11-23,2052-04-06,"Family Floater Health Insurance Plan",31,1203,34738,69148
+4609132,886064,"China Pacific Company",2019-04-03,2061-01-24,"Health Maintenance Organization  Plan",47,1223,54267,48784
+4612299,582005,MetLife,2019-05-04,2056-04-12,"Preferred Provider Organization  Plan",33,1161,63855,55696
+4612507,866285,"Meiji Yasuda Life",2019-07-13,2063-05-01,"Health Maintenance Organization  Plan",130,773,88485,42500
+4618337,852296,Aviva,2019-04-01,2060-10-26,"Health Maintenance Organization  Plan",29,1654,39606,56531
+4626416,892465,"JA Kyosai",2019-12-27,2057-08-20,"Family Floater Health Insurance Plan",37,984,50554,10669
+4635935,195034,"SBI ",2019-01-15,2052-08-02,"Individual Health Insurance Plan",144,259,85711,52920
+4663155,491478,"Sahara India  ",2019-08-15,2062-04-01,"Health Maintenance Organization  Plan",101,792,31504,80591
+4669548,412864,"Liberty Videocon ",2019-09-06,2059-10-20,"Family Floater Health Insurance Plan",120,641,59774,77535
+4676479,745081,Allianz,2019-04-03,2053-09-27,"Preferred Provider Organization  Plan",7,1017,43123,86048
+4692233,932806,"ICICI Lombard ",2019-02-20,2055-08-05,"Senior Citizen Health Insurance Plan",28,496,62112,95851
+4693641,567680,"CVS Health",2019-09-29,2058-08-07,"Critical Illness Insurance Plan",137,680,71279,23340
+4718941,744027,"Religare Health ",2019-09-11,2064-11-24,"Individual Health Insurance Plan",130,1111,41141,73971
+4730937,332234,"American  ",2019-08-14,2053-06-25,"Family Floater Health Insurance Plan",94,1437,90446,75340
+4739732,323996,"Legal & General",2019-09-26,2051-12-04,"Senior Citizen Health Insurance Plan",145,611,30075,36932
+4742311,273999,"Birla Sun  ",2019-09-17,2054-04-26,"Senior Citizen Health Insurance Plan",167,930,93365,87327
+4744664,809155,"PNB MetLife India ",2019-05-02,2055-12-15,"Family Floater Health Insurance Plan",10,1705,40764,87325
+4748149,661745,"CNP Assurances",2019-11-25,2060-04-02,"Health Maintenance Organization  Plan",129,475,46152,17441
+4748785,165518,"HDFC Standard  ",2019-12-22,2059-01-13,"Senior Citizen Health Insurance Plan",131,308,95647,15097
+4751395,898468,"Progressive ",2019-11-29,2056-06-17,"Individual Health Insurance Plan",169,830,57096,90477
+4757493,746553,"Prudential Financial",2019-04-27,2060-04-24,"Family Floater Health Insurance Plan",69,1500,53069,62206
+4762906,665069,"Prudential plc",2019-06-18,2056-10-06,"Senior Citizen Health Insurance Plan",131,1318,53982,87691
+4766150,464441,"Munich Re",2019-04-23,2064-07-19,"Senior Citizen Health Insurance Plan",15,1393,92027,26832
+4796463,693297,"Progressive ",2019-08-22,2062-07-04,"Family Floater Health Insurance Plan",119,985,77389,39050
+4800945,819479,"Future Generali India ",2019-07-23,2064-10-14,"Individual Health Insurance Plan",61,1046,60255,98906
+4819182,831089,"SBI ",2019-06-11,2054-05-02,"Preferred Provider Organization  Plan",108,514,75136,79936
+4846810,710805,"IndiaFirst  ",2019-09-22,2064-12-17,"Preferred Provider Organization  Plan",112,346,76819,89525
+4869486,835595,"Apollo Munich Health ",2019-08-11,2052-04-28,"Critical Illness Insurance Plan",112,430,65414,49339
+4871773,840053,PMSBY,2019-09-22,2054-09-19,"Senior Citizen Health Insurance Plan",37,750,85215,88838
+4872246,694089,"Progressive ",2019-10-20,2050-08-01,"Senior Citizen Health Insurance Plan",198,1785,92002,78811
+4873613,299238,"ICICI Lombard ",2019-11-18,2061-05-21,"Critical Illness Insurance Plan",69,1921,44575,78896
+4885937,537634,"JA Kyosai",2019-10-22,2065-01-12,"Individual Health Insurance Plan",18,501,65182,62010
+4890896,582219,"Liberty Mutual",2019-03-30,2052-06-24,"Individual Health Insurance Plan",92,1715,75596,47442
+4912644,177483,"Future Generali India ",2019-12-10,2058-08-22,"Family Floater Health Insurance Plan",1,1895,96669,37753
+4914078,266638,"Progressive ",2019-07-20,2060-07-25,"Senior Citizen Health Insurance Plan",123,1472,73150,94883
+4926578,770439,"Centene ",2019-11-18,2062-08-04,"Critical Illness Insurance Plan",146,1336,97758,86909
+4940960,461290,Allianz,2019-05-23,2055-08-27,"Senior Citizen Health Insurance Plan",25,1879,94870,67694
+4943060,847590,"Legal & General",2019-07-04,2053-07-17,"Family Floater Health Insurance Plan",191,389,41507,63034
+4948450,466844,"China Pacific Company",2019-01-05,2056-02-19,"Preferred Provider Organization  Plan",101,1937,96716,94824
+4975545,857601,"Dai-ichi Life",2019-09-08,2057-03-02,"Family Floater Health Insurance Plan",84,747,50025,13167
+4975731,412493,"Kotak ",2019-05-17,2051-06-24,"Preferred Provider Organization  Plan",98,999,79752,30926
+4976438,278539,"Edelweiss Tokio  ",2019-09-05,2061-05-03,"Preferred Provider Organization  Plan",69,626,59141,89809
+4983773,543155,"Meiji Yasuda Life",2019-12-12,2056-08-14,"Preferred Provider Organization  Plan",142,1740,73619,28813
+5007169,942753,"Shriram ",2019-04-26,2064-08-14,"Individual Health Insurance Plan",152,468,84910,15167
+5039270,242253,Axa,2019-09-06,2060-08-29,"Family Floater Health Insurance Plan",194,356,71750,39370
+5043694,458818,Anthem,2019-10-21,2055-06-22,"Preferred Provider Organization  Plan",195,994,69333,95258
+5053012,171013,"IndiaFirst  ",2019-02-11,2057-06-15,"Preferred Provider Organization  Plan",140,1899,59950,42279
+5082236,625534,"Reliance ",2019-05-19,2056-02-14,"Health Maintenance Organization  Plan",169,998,41017,50690
+5085968,765240,"Zurich ",2019-06-05,2055-03-24,"Critical Illness Insurance Plan",122,1569,82065,55659
+5137499,156016,"Bajaj Allianz  ",2019-12-03,2061-10-16,"Individual Health Insurance Plan",82,1655,71321,61994
+5157307,248563,"State Farm",2019-08-28,2051-06-26,"Individual Health Insurance Plan",170,1379,96963,10456
+5162303,387734,"Future Generali India  ",2019-12-23,2059-12-07,"Family Floater Health Insurance Plan",67,624,59981,97910
+5165019,591810,"Aegon  ",2019-06-09,2056-03-11,"Health Maintenance Organization  Plan",196,1313,76812,57502
+5166646,470664,"Health Care Service ",2019-04-03,2062-03-21,"Family Floater Health Insurance Plan",182,1432,78611,53673
+5170480,451858,"Great-West Lifeco",2019-10-12,2065-04-22,"Critical Illness Insurance Plan",74,818,93075,90399
+5174370,380607,"Progressive ",2019-12-30,2062-10-24,"Senior Citizen Health Insurance Plan",13,1378,97344,60141
+5176850,822373,"HDFC ERGO ",2019-05-07,2060-04-05,"Family Floater Health Insurance Plan",68,1075,56304,14356
+5178106,290092,"SBI  ",2019-08-08,2058-06-02,"Preferred Provider Organization  Plan",160,264,56917,76354
+5182742,112157,"Assicurazioni Generali",2019-03-23,2062-01-22,"Health Maintenance Organization  Plan",150,1806,72236,19330
+5185248,440566,Aviva,2019-07-23,2056-06-24,"Preferred Provider Organization  Plan",110,1277,30118,87547
+5196609,762931,"LIC INDIA",2019-12-19,2064-05-18,"Individual Health Insurance Plan",95,831,55020,27154
+5198047,348631,"Zurich ",2019-07-22,2052-02-23,"Health Maintenance Organization  Plan",97,355,92762,94968
+5198161,365689,"Assicurazioni Generali",2019-08-04,2055-03-04,"Health Maintenance Organization  Plan",134,251,75638,71614
+5216866,822846,"IFFCO-Tokio ",2019-11-23,2059-01-04,"Critical Illness Insurance Plan",118,530,96629,78560
+5217300,147443,"JA Kyosai",2019-05-16,2052-11-03,"Senior Citizen Health Insurance Plan",55,504,47429,45129
+5232295,172438,"PNB MetLife India ",2019-11-20,2059-12-07,"Senior Citizen Health Insurance Plan",178,472,78296,86697
+5242335,136631,"Assicurazioni Generali",2019-04-25,2058-10-29,"Health Maintenance Organization  Plan",193,1023,34060,13771
+5244320,496276,"HDFC ERGO ",2019-07-28,2054-01-20,"Senior Citizen Health Insurance Plan",163,1005,93919,64206
+5246454,380832,"LIC INDIA",2019-08-18,2063-07-02,"Critical Illness Insurance Plan",74,849,90709,49493
+5261255,744741,RSBY,2019-11-27,2056-12-27,"Critical Illness Insurance Plan",36,1075,66701,70169
+5261428,165685,"ICICI Prudential  ",2019-02-14,2063-03-13,"Critical Illness Insurance Plan",10,1412,65783,15395
+5269528,246064,"People's Company of China",2019-04-07,2051-02-23,"Critical Illness Insurance Plan",36,402,72481,48922
+5269851,115161,"American  ",2019-12-26,2059-09-21,"Family Floater Health Insurance Plan",137,700,47486,22033
+5276827,417575,"TATA AIG ",2019-08-22,2062-11-29,"Senior Citizen Health Insurance Plan",135,418,58981,73119
+5317174,454828,"New York  Company",2019-01-17,2057-11-06,"Individual Health Insurance Plan",160,292,88561,14327
+5318991,431950,"Prudential Financial",2019-02-02,2060-01-08,"Senior Citizen Health Insurance Plan",57,1240,43235,40617
+5329083,767473,"UnitedHealth ",2019-09-12,2055-08-22,"Individual Health Insurance Plan",4,290,93754,84383
+5332264,899358,"Progressive ",2019-07-25,2054-09-24,"Family Floater Health Insurance Plan",88,1770,52877,96028
+5337267,490906,"Reliance  ",2019-12-15,2057-08-04,"Critical Illness Insurance Plan",39,803,50369,64712
+5338674,954166,"Ping An",2019-10-21,2054-07-27,"Senior Citizen Health Insurance Plan",20,362,70959,89477
+5346621,152569,"Progressive ",2019-09-19,2055-02-24,"Family Floater Health Insurance Plan",31,1256,96792,35203
+5385319,551218,Anthem,2019-12-05,2059-04-30,"Preferred Provider Organization  Plan",100,1767,62083,12754
+5411561,383742,"Birla Sun  ",2019-05-31,2056-02-01,"Senior Citizen Health Insurance Plan",112,1828,81002,59802
+5414826,732591,"ICICI Lombard ",2019-11-26,2054-02-12,"Senior Citizen Health Insurance Plan",62,473,64273,12127
+5428844,779387,"Munich Re",2019-11-29,2059-10-11,"Family Floater Health Insurance Plan",24,1873,34535,88994
+5430175,757726,"Aegon N.V.",2019-09-21,2064-06-10,"Senior Citizen Health Insurance Plan",142,1813,47979,62589
+5440582,203776,PMJJBY,2019-12-19,2054-05-20,"Preferred Provider Organization  Plan",184,1870,41142,62435
+5443572,667747,"Zurich ",2019-01-25,2057-07-27,"Health Maintenance Organization  Plan",64,260,90011,73116
+5455348,647684,"China ",2019-11-14,2056-08-16,"Family Floater Health Insurance Plan",54,518,98489,75877
+5460366,698943,"Bajaj Allianz  ",2019-12-21,2064-04-28,"Individual Health Insurance Plan",98,1361,40445,25471
+5467172,375980,"Health Care Service ",2019-03-05,2064-10-23,"Family Floater Health Insurance Plan",43,1310,97267,14252
+5472673,685136,"China Pacific Company",2019-12-19,2056-06-04,"Preferred Provider Organization  Plan",14,639,34816,72175
+5476985,679533,Humana,2019-11-18,2057-08-21,"Preferred Provider Organization  Plan",175,1155,52270,42505
+5479380,907730,"Edelweiss Tokio  ",2019-10-02,2056-04-04,"Health Maintenance Organization  Plan",185,1794,47632,55449
+5489101,778526,"Berkshire Hathaway",2019-08-20,2058-07-06,"Individual Health Insurance Plan",58,1703,69662,58581
+5504280,627003,"Shriram ",2019-08-24,2051-09-03,"Family Floater Health Insurance Plan",167,1049,49123,54188
+5518249,368930,"Berkshire Hathaway",2019-12-09,2059-02-25,"Family Floater Health Insurance Plan",118,1769,34243,94466
+5521964,413113,"Magma HDI ",2019-12-27,2052-02-18,"Senior Citizen Health Insurance Plan",72,639,41844,78529
+5527770,270592,"Bajaj Allianz  ",2019-01-31,2054-01-05,"Individual Health Insurance Plan",128,654,86470,71858
+5529797,372549,"CVS Health",2019-09-16,2050-06-18,"Critical Illness Insurance Plan",141,1052,41933,58052
+5530050,273623,"Bharti AXA  ",2019-09-28,2056-06-19,"Family Floater Health Insurance Plan",25,548,94310,33035
+5530902,929262,"Cholamandalam ",2019-12-13,2050-10-16,"Preferred Provider Organization  Plan",115,797,56756,80163
+5553549,557416,"Assicurazioni Generali",2019-03-11,2054-12-01,"Health Maintenance Organization  Plan",137,460,81881,62223
+5560137,615685,"Bajaj Allianz ",2019-12-24,2063-07-25,"Health Maintenance Organization  Plan",111,1754,84537,99098
+5567670,699220,"Birla Sun  ",2019-12-19,2065-05-06,"Senior Citizen Health Insurance Plan",163,539,65043,76403
+5578649,844927,"Ping An",2019-01-11,2059-08-27,"Senior Citizen Health Insurance Plan",104,1561,79325,13615
+5581450,901888,"Bajaj Allianz  ",2019-09-01,2054-01-24,"Preferred Provider Organization  Plan",176,1535,93340,40293
+5604805,952090,PMJJBY,2019-10-13,2063-05-20,"Health Maintenance Organization  Plan",8,703,58982,48104
+5605253,876913,Allianz,2019-10-31,2057-01-22,"Family Floater Health Insurance Plan",82,1756,55191,89450
+5616781,432912,"Ping An",2019-09-14,2054-11-19,"Critical Illness Insurance Plan",61,1868,49700,26587
+5634957,911363,"HDFC Standard  ",2019-10-31,2057-03-17,"Family Floater Health Insurance Plan",71,1054,42057,15080
+5656221,425294,PMSBY,2019-07-07,2064-06-11,"Critical Illness Insurance Plan",54,1535,94228,39125
+5660503,825716,"Magma HDI ",2019-12-21,2052-02-25,"Family Floater Health Insurance Plan",92,1969,84485,29735
+5660729,466287,"LIC INDIA",2019-07-02,2063-11-16,"Health Maintenance Organization  Plan",83,1822,43466,47689
+5715203,315607,"Cigna TTK Health ",2019-07-31,2052-09-22,"Senior Citizen Health Insurance Plan",82,1833,81942,24945
+5715859,417143,"Shriram ",2019-08-21,2052-03-19,"Family Floater Health Insurance Plan",84,1547,54634,38720
+5728232,153671,"Aviva  Co. India Ltd.",2019-03-09,2057-02-23,"Preferred Provider Organization  Plan",63,1704,99136,25862
+5742036,752903,Aviva,2019-12-07,2051-02-26,"Health Maintenance Organization  Plan",178,846,49651,13230
+5762148,424880,"Cigna TTK Health ",2019-10-29,2050-09-29,"Senior Citizen Health Insurance Plan",135,866,58370,48061
+5768999,926228,"Star Union Dai-Ichi  ",2019-03-07,2054-10-16,"Individual Health Insurance Plan",100,1665,72884,80184
+5774887,414292,"Reliance ",2019-08-18,2055-01-31,"Health Maintenance Organization  Plan",160,1122,52883,66740
+5799168,319601,"Ping An",2019-09-17,2056-07-22,"Critical Illness Insurance Plan",66,1674,51994,24249
+5800265,576633,"Health Care Service ",2019-09-14,2055-12-31,"Family Floater Health Insurance Plan",44,497,82970,83867
+5806234,458966,"Kaiser Permanente",2019-08-14,2055-10-10,"Individual Health Insurance Plan",148,766,41361,85667
+5817632,526068,"Assicurazioni Generali",2019-08-10,2058-01-05,"Health Maintenance Organization  Plan",20,1690,77403,50190
+5820964,957568,"Manulife Financial",2019-06-04,2052-11-09,"Senior Citizen Health Insurance Plan",183,1601,99619,64676
+5823154,206461,"Berkshire Hathaway",2019-09-14,2055-05-06,"Health Maintenance Organization  Plan",54,1340,71865,45524
+5835538,504370,"Shriram ",2019-10-31,2064-02-20,"Family Floater Health Insurance Plan",12,513,87065,28280
+5840511,319420,"Prudential Financial",2019-04-19,2053-10-27,"Senior Citizen Health Insurance Plan",67,1306,84402,62657
+5851497,625285,"Raheja QBE ",2019-07-15,2057-07-31,"Critical Illness Insurance Plan",106,1794,62027,86666
+5856536,803958,"Future Generali India  ",2019-12-02,2055-07-02,"Individual Health Insurance Plan",175,1276,92879,73383
+5903342,779511,"CVS Health",2019-03-14,2058-12-23,"Senior Citizen Health Insurance Plan",196,761,89376,83031
+5918233,701169,"DHFL Pramerica  ",2019-07-25,2056-11-27,"Health Maintenance Organization  Plan",120,683,98483,73826
+5921240,921964,"Sahara India  ",2019-12-22,2064-04-11,"Critical Illness Insurance Plan",103,508,31574,91898
+5924620,913190,"IDBI Federal  ",2019-11-14,2055-08-07,"Critical Illness Insurance Plan",111,699,61586,35775
+5945368,518329,Axa,2019-09-25,2057-03-15,"Family Floater Health Insurance Plan",9,413,54904,25083
+5962043,594813,"Bajaj Allianz  ",2019-02-08,2060-04-15,"Individual Health Insurance Plan",184,1433,37362,26652
+5977888,750591,MetLife,2019-09-26,2065-04-12,"Health Maintenance Organization  Plan",33,1530,82242,43253
+5999247,189903,"Magma HDI ",2019-09-05,2064-05-01,"Senior Citizen Health Insurance Plan",150,1985,59559,60764
+6008041,175640,"Shriram  ",2019-05-31,2058-06-10,"Individual Health Insurance Plan",188,642,84277,79025
+6021559,807211,"IndiaFirst  ",2019-01-21,2064-04-08,"Health Maintenance Organization  Plan",117,1893,66535,53759
+6031910,506478,"TATA AIG ",2019-05-13,2054-02-12,"Senior Citizen Health Insurance Plan",70,403,53687,49971
+6041543,769125,"Ping An",2019-11-30,2061-06-02,"Family Floater Health Insurance Plan",156,1164,57971,20708
+6057405,495383,"Future Generali India ",2019-04-14,2061-11-02,"Family Floater Health Insurance Plan",74,884,56483,19994
+6060970,477924,"Birla Sun  ",2019-07-08,2064-12-31,"Senior Citizen Health Insurance Plan",173,270,91805,82539
+6079545,787648,"Liberty Mutual",2019-04-04,2062-03-02,"Preferred Provider Organization  Plan",190,470,49559,61595
+6089551,177314,"Bharti AXA ",2019-11-11,2062-04-01,"Preferred Provider Organization  Plan",195,1688,36336,30034
+6093806,874503,"Kaiser Permanente",2019-02-20,2059-04-17,"Preferred Provider Organization  Plan",104,1899,47667,70211
+6100642,757654,"Dai-ichi Life",2019-09-06,2061-05-27,"Family Floater Health Insurance Plan",157,917,83626,50079
+6118806,358443,Axa,2019-09-28,2062-09-01,"Family Floater Health Insurance Plan",13,1044,96736,67395
+6125618,310697,"Apollo Munich Health ",2019-08-10,2055-04-09,"Health Maintenance Organization  Plan",4,1071,73386,44760
+6127436,353931,Anthem,2019-07-01,2059-09-20,"Preferred Provider Organization  Plan",81,1034,56579,31666
+6130096,636746,"Max Bupa Health ",2019-11-08,2051-09-19,"Individual Health Insurance Plan",107,1657,74082,38761
+6140071,520163,MetLife,2019-11-30,2053-10-25,"Preferred Provider Organization  Plan",155,425,96677,73821
+6145912,738966,"TATA AIG ",2019-11-07,2059-05-31,"Family Floater Health Insurance Plan",175,1652,47664,75611
+6184122,190283,"Raheja QBE ",2019-11-18,2057-06-18,"Critical Illness Insurance Plan",197,471,85764,28661
+6184617,426271,RSBY,2019-07-07,2061-08-17,"Health Maintenance Organization  Plan",148,747,43994,79239
+6197399,638122,"Religare Health ",2019-10-19,2052-10-22,"Family Floater Health Insurance Plan",59,256,53592,79101
+6198651,315515,"Religare Health ",2019-08-28,2065-02-01,"Family Floater Health Insurance Plan",65,688,49112,16530
+6198970,598101,"Edelweiss Tokio  ",2019-10-21,2061-12-25,"Preferred Provider Organization  Plan",177,607,54136,95439
+6200618,318214,PMJJBY,2019-09-02,2051-12-15,"Preferred Provider Organization  Plan",189,780,38352,16268
+6226330,739756,"Universal Sompo ",2019-09-12,2064-06-14,"Senior Citizen Health Insurance Plan",176,1885,99330,87227
+6235666,199193,"Apollo Munich Health ",2019-07-23,2062-07-07,"Health Maintenance Organization  Plan",98,449,36263,33867
+6238593,509850,"Max Bupa Health ",2019-10-16,2054-11-13,"Individual Health Insurance Plan",192,336,84005,67165
+6259835,502766,"Royal Sundaram Alliance ",2019-07-28,2062-02-10,"Preferred Provider Organization  Plan",72,702,81993,99634
+6292810,403871,"Star Union Dai-Ichi  ",2019-08-30,2056-07-04,"Family Floater Health Insurance Plan",60,502,61393,45781
+6299148,734261,"Kotak ",2019-04-09,2061-09-30,"Health Maintenance Organization  Plan",5,1698,43477,88782
+6299207,228316," Lic india",2019-09-19,2056-04-30,"Family Floater Health Insurance Plan",28,1180,75968,69264
+6300605,784164,"JA Kyosai",2019-08-19,2062-02-17,"Family Floater Health Insurance Plan",123,1671,74978,88619
+6302789,253113,"China Pacific Company",2019-07-14,2065-06-10,"Preferred Provider Organization  Plan",174,1666,95616,36230
+6324167,907662,"DHFL Pramerica  ",2019-06-24,2056-09-05,"Critical Illness Insurance Plan",174,880,90475,59195
+6328826,789662,"LIC INDIA",2020-01-02,2060-12-08,"Senior Citizen Health Insurance Plan",110,914,88476,51254
+6329897,883014,"CVS Health",2019-12-11,2058-12-19,"Senior Citizen Health Insurance Plan",159,1518,58316,79806
+6333472,199176,"Universal Sompo ",2019-11-14,2056-07-02,"Critical Illness Insurance Plan",156,993,84071,78525
+6371571,642637,"Prudential Financial",2019-09-19,2056-07-06,"Senior Citizen Health Insurance Plan",4,1477,73167,17889
+6373003,368466,"State Farm",2019-03-03,2054-07-25,"Individual Health Insurance Plan",97,1669,66256,43065
+6378874,315090,"Max Bupa Health ",2019-08-03,2058-04-17,"Individual Health Insurance Plan",199,1372,85667,62759
+6433282,130018,"Centene ",2019-10-21,2056-10-29,"Health Maintenance Organization  Plan",200,1453,61179,79315
+6439241,297886,"Future Generali India ",2019-09-14,2062-11-06,"Family Floater Health Insurance Plan",64,1848,36552,32265
+6440058,691077,MetLife,2019-04-05,2063-04-27,"Preferred Provider Organization  Plan",48,1739,94172,13216
+6457535,181268,"HDFC ERGO ",2019-02-19,2065-03-07,"Senior Citizen Health Insurance Plan",108,1758,31596,13865
+6485774,483570,"Exide  ",2019-07-30,2063-08-20,"Individual Health Insurance Plan",44,684,39508,67327
+6486230,910975,"Future Generali India  ",2019-09-06,2059-04-12,"Individual Health Insurance Plan",106,1450,70178,87144
+6512103,954698,MetLife,2019-11-18,2053-07-06,"Health Maintenance Organization  Plan",55,588,82338,47539
+6524206,865631,"Zurich ",2019-04-09,2054-12-12,"Critical Illness Insurance Plan",43,1719,42392,69833
+6548234,352133,"China ",2019-07-29,2054-04-06,"Critical Illness Insurance Plan",134,693,33566,92900
+6548278,433655,"Berkshire Hathaway",2019-04-23,2060-05-08,"Health Maintenance Organization  Plan",98,424,48338,53639
+6557014,803998,"HDFC Standard  ",2019-04-12,2060-10-22,"Family Floater Health Insurance Plan",73,1963,53424,40657
+6558847,678880,"Assicurazioni Generali",2019-07-17,2054-04-04,"Health Maintenance Organization  Plan",35,1443,52546,32119
+6572151,828246,"Reliance ",2019-10-21,2059-11-26,"Critical Illness Insurance Plan",174,301,70242,14380
+6576460,726366,"Aditya Birla Health ",2019-10-24,2054-04-13,"Critical Illness Insurance Plan",6,1614,97196,27671
+6586627,374484,"China Pacific Company",2019-12-26,2056-09-29,"Preferred Provider Organization  Plan",190,1392,49823,83922
+6595776,283643,"Max  ",2019-08-01,2058-10-08,"Family Floater Health Insurance Plan",151,894,73864,77879
+6596545,523971,"Legal & General",2019-12-12,2063-01-20,"Senior Citizen Health Insurance Plan",7,304,81240,85700
+6616099,919957,"Max  ",2019-12-14,2057-04-11,"Individual Health Insurance Plan",88,1804,96984,78195
+6619736,235473,"Ping An",2019-09-24,2060-10-02,"Senior Citizen Health Insurance Plan",20,1094,50772,83265
+6625588,814950,"Aditya Birla Health ",2019-12-08,2059-08-27,"Senior Citizen Health Insurance Plan",9,481,42119,43785
+6626563,171483,"Max  ",2019-02-15,2060-04-19,"Family Floater Health Insurance Plan",177,1354,57708,68574
+6647301,636275,"Star Health Allied ",2019-09-01,2056-09-27,"Preferred Provider Organization  Plan",134,1378,84212,69375
+6661031,676662,"Kaiser Permanente",2019-12-10,2053-07-26,"Individual Health Insurance Plan",81,551,45905,36261
+6664905,681197,"CVS Health",2019-12-01,2051-11-12,"Critical Illness Insurance Plan",118,1195,30668,75450
+6669050,396019,"Max  ",2019-05-24,2058-01-27,"Family Floater Health Insurance Plan",111,1593,62019,85358
+6669693,527305,"Japan Post",2019-11-01,2062-07-11,"Individual Health Insurance Plan",72,675,32744,24278
+6679091,887337,"Nippon Life",2019-02-28,2053-09-22,"Preferred Provider Organization  Plan",141,1466,78156,66044
+6723071,295672,"Bajaj Allianz ",2019-12-23,2051-06-14,"Health Maintenance Organization  Plan",196,1110,69674,39089
+6742992,258786,"JA Kyosai",2019-11-08,2050-07-03,"Senior Citizen Health Insurance Plan",191,347,63360,67598
+6768403,516214,PMSBY,2019-09-12,2057-06-24,"Critical Illness Insurance Plan",103,1024,50135,97142
+6773114,845504,"Berkshire Hathaway",2019-03-21,2055-07-20,"Critical Illness Insurance Plan",20,559,92808,12128
+6774156,104538,"Berkshire Hathaway",2019-12-05,2058-12-23,"Health Maintenance Organization  Plan",79,1912,99856,77301
+6782016,438137,"China ",2019-05-31,2060-03-18,"Family Floater Health Insurance Plan",21,1111,68037,62638
+6790189,741377,"Apollo Munich Health ",2019-10-11,2055-04-12,"Critical Illness Insurance Plan",164,904,81258,62236
+6827467,192170,"Royal Sundaram Alliance ",2019-08-25,2057-09-14,"Preferred Provider Organization  Plan",144,1097,93603,59446
+6827872,690125,"Dai-ichi Life",2019-09-09,2055-09-10,"Health Maintenance Organization  Plan",183,743,66942,20298
+6835184,308565,"SBI ",2019-08-01,2050-12-11,"Individual Health Insurance Plan",112,640,88902,12756
+6838642,936355,"Magma HDI ",2019-01-19,2058-12-11,"Family Floater Health Insurance Plan",15,1649,41449,79385
+6863630,252250,"CVS Health",2019-10-25,2051-05-21,"Critical Illness Insurance Plan",193,1035,80357,59581
+6868309,928169,"Bharti AXA ",2019-01-29,2061-09-28,"Health Maintenance Organization  Plan",76,353,88935,48248
+6899986,595971,"Birla Sun  ",2019-01-07,2065-03-25,"Senior Citizen Health Insurance Plan",148,1221,36721,25666
+6901320,151305,"Liberty Mutual",2019-08-07,2064-11-18,"Individual Health Insurance Plan",54,619,92725,21831
+6933271,509500,"Star Health Allied ",2019-03-19,2063-04-10,"Preferred Provider Organization  Plan",42,1220,54763,12193
+6938280,774142,Allianz,2019-05-09,2058-05-14,"Family Floater Health Insurance Plan",179,1557,87654,53419
+6956576,550826,"Centene ",2019-11-26,2053-10-12,"Health Maintenance Organization  Plan",140,1348,54798,95773
+6965244,200350,"Religare Health ",2019-01-31,2054-01-24,"Family Floater Health Insurance Plan",59,347,80378,21687
+6969138,423267,"Religare Health ",2019-10-04,2056-11-21,"Family Floater Health Insurance Plan",96,336,54910,45974
+6974576,127305,"New York  Company",2019-01-24,2052-12-06,"Individual Health Insurance Plan",97,1097,65030,51298
+6994012,373226,"LIC INDIA",2019-02-14,2053-10-18,"Health Maintenance Organization  Plan",151,1286,93498,15033
+6999101,175858,"Star Union Dai-Ichi  ",2019-02-25,2051-03-09,"Family Floater Health Insurance Plan",186,393,96791,69309
+7001642,243985,Allianz,2019-10-06,2063-04-05,"Senior Citizen Health Insurance Plan",71,416,39528,65299
+7004920,472264,HDI,2019-11-17,2055-03-30,"Critical Illness Insurance Plan",3,1410,62128,71657
+7007457,415970,"Royal Sundaram Alliance ",2019-05-30,2054-02-18,"Preferred Provider Organization  Plan",122,1707,37912,20192
+7009279,195062,"Shriram ",2019-05-20,2063-11-05,"Family Floater Health Insurance Plan",70,1337,76881,40207
+7009661,101393,Axa,2019-12-31,2051-12-01,"Family Floater Health Insurance Plan",90,726,63688,87426
+7016128,845534,MetLife,2019-07-04,2062-03-28,"Health Maintenance Organization  Plan",198,1750,50229,98995
+7018693,389713,"ICICI Prudential  ",2019-12-03,2050-07-10,"Critical Illness Insurance Plan",198,1320,82250,71456
+7021497,845596,"Nippon Life",2019-02-05,2057-01-31,"Preferred Provider Organization  Plan",173,338,77986,36750
+7024608,389565,"HDFC Standard  ",2019-02-14,2054-11-17,"Senior Citizen Health Insurance Plan",129,1211,78689,33144
+7035048,674139,Anthem,2019-01-06,2056-07-21,"Preferred Provider Organization  Plan",77,601,52387,64752
+7054137,290020,"Sahara India  ",2019-09-21,2054-03-06,"Health Maintenance Organization  Plan",195,1608,83422,49426
+7056575,528141,"Aegon N.V.",2019-12-15,2051-08-06,"Critical Illness Insurance Plan",194,868,42882,13050
+7070081,146713,"China Pacific Company",2019-12-06,2053-03-21,"Preferred Provider Organization  Plan",135,511,89728,15172
+7075868,595306,"Bharti AXA  ",2019-04-16,2060-05-22,"Family Floater Health Insurance Plan",8,1610,30197,90804
+7089840,699054,"Bharti AXA  ",2019-05-01,2062-03-18,"Family Floater Health Insurance Plan",173,491,92571,52149
+7129243,462003,Humana,2019-08-12,2055-02-04,"Preferred Provider Organization  Plan",100,1049,33151,59129
+7135086,954480,"Berkshire Hathaway",2019-12-18,2053-10-27,"Critical Illness Insurance Plan",74,619,83765,32685
+7179350,750185,"Ping An",2019-12-06,2065-03-06,"Senior Citizen Health Insurance Plan",113,1288,87112,92709
+7180096,823556,"Kotak ",2019-08-27,2057-07-02,"Health Maintenance Organization  Plan",54,1916,42316,79156
+7184883,382466,"Aviva  Co. India Ltd.",2019-02-10,2059-04-07,"Preferred Provider Organization  Plan",24,1117,70262,35801
+7187919,176277,"Aditya Birla Health ",2019-12-26,2062-02-15,"Critical Illness Insurance Plan",84,1139,36304,52481
+7195820,789301,"Progressive ",2019-12-31,2051-02-26,"Family Floater Health Insurance Plan",124,1261,48708,91157
+7201303,736080,"Reliance ",2019-07-07,2064-05-29,"Critical Illness Insurance Plan",83,1262,82921,94791
+7209178,406848,"Aditya Birla Health ",2019-01-22,2060-04-19,"Critical Illness Insurance Plan",172,1605,48537,41715
+7214184,298211,"HDFC ERGO ",2019-12-22,2054-06-09,"Senior Citizen Health Insurance Plan",117,459,95009,91040
+7232772,132918,Allianz,2019-02-08,2063-12-15,"Senior Citizen Health Insurance Plan",150,1209,48513,43524
+7245644,725843,"Tata AIA  ",2019-11-10,2064-11-08,"Senior Citizen Health Insurance Plan",112,1425,65807,60065
+7303195,518988,"Ping An",2019-11-29,2055-09-27,"Critical Illness Insurance Plan",46,1070,96195,91983
+7320407,608895,"Max  ",2020-01-03,2060-02-18,"Family Floater Health Insurance Plan",53,1133,97304,32369
+7339308,950818,"Cigna TTK Health ",2019-12-12,2052-11-05,"Family Floater Health Insurance Plan",139,1958,63853,45223
+7350572,705334,"Exide  ",2019-06-04,2055-09-16,"Individual Health Insurance Plan",182,1360,78855,12060
+7352810,234497,"New York  Company",2020-01-04,2052-07-08,"Individual Health Insurance Plan",51,1436,34949,59479
+7366954,460636,Axa,2019-06-16,2065-05-10,"Family Floater Health Insurance Plan",22,1822,50365,73930
+7376811,237664,"Centene ",2019-09-27,2064-01-02,"Health Maintenance Organization  Plan",6,972,51350,40049
+7390624,282091,"ICICI Prudential  ",2019-09-25,2064-02-07,"Critical Illness Insurance Plan",123,639,47301,88999
+7403086,683215," ",2019-04-16,2052-09-14,"Health Maintenance Organization  Plan",131,528,77830,89038
+7408828,551226,"Kaiser Permanente",2019-10-30,2054-12-24,"Individual Health Insurance Plan",165,677,34720,85352
+7413415,419370,"Star Health Allied ",2019-04-14,2062-02-25,"Preferred Provider Organization  Plan",153,523,50510,21808
+7421586,810629,"Sahara India  ",2019-11-03,2056-07-14,"Critical Illness Insurance Plan",53,1776,44407,53464
+7431945,494098,"Cholamandalam ",2019-06-24,2063-07-01,"Individual Health Insurance Plan",101,1401,42582,71925
+7433218,923480,"SBI  ",2019-11-17,2059-11-18,"Health Maintenance Organization  Plan",28,1848,58314,38723
+7454757,612092,"SBI  ",2019-10-04,2063-03-30,"Preferred Provider Organization  Plan",1,1684,72511,35740
+7482355,184055,"IFFCO-Tokio ",2019-04-10,2063-05-06,"Health Maintenance Organization  Plan",149,368,94493,34946
+7487950,667990,"Meiji Yasuda Life",2019-01-24,2053-02-11,"Preferred Provider Organization  Plan",186,1156,35460,53329
+7494878,645265,"Berkshire Hathaway",2019-01-30,2057-12-02,"Health Maintenance Organization  Plan",125,743,83365,83637
+7506247,439913,"Assicurazioni Generali",2019-09-10,2053-03-16,"Health Maintenance Organization  Plan",157,1936,72523,79173
+7560544,822464,"ICICI Lombard ",2019-02-03,2052-08-04,"Senior Citizen Health Insurance Plan",191,932,39239,40615
+7588375,899954,"LIC INDIA",2019-03-23,2051-04-27,"Senior Citizen Health Insurance Plan",47,1174,79403,83172
+7589514,839871,"Cigna TTK Health ",2019-09-20,2054-05-20,"Family Floater Health Insurance Plan",2,1042,83996,87122
+7594942,735136,"Liberty Videocon ",2019-09-18,2059-05-21,"Individual Health Insurance Plan",18,782,99101,17315
+7605636,474990,"LIC INDIA",2019-08-24,2057-06-13,"Critical Illness Insurance Plan",187,1277,42440,56179
+7610272,175864,"Tata AIA  ",2019-04-16,2062-04-08,"Senior Citizen Health Insurance Plan",198,1529,48279,72528
+7615267,174339,"Sahara India  ",2019-08-23,2053-10-22,"Health Maintenance Organization  Plan",80,1893,43882,49592
+7617272,705546,"Future Generali India  ",2019-04-15,2051-05-12,"Family Floater Health Insurance Plan",63,902,94830,19838
+7620301,798619,"Birla Sun  ",2019-12-02,2054-10-04,"Family Floater Health Insurance Plan",191,473,40950,36444
+7621228,317232,PMSBY,2019-12-05,2053-08-07,"Critical Illness Insurance Plan",136,1800,58684,64518
+7691526,454872,"UnitedHealth ",2019-05-25,2054-09-14,"Family Floater Health Insurance Plan",96,1093,71295,10289
+7695240,728973,"Bharti AXA ",2019-04-09,2052-10-09,"Preferred Provider Organization  Plan",50,734,87862,52335
+7698489,124861,"Prudential plc",2019-12-05,2059-01-10,"Senior Citizen Health Insurance Plan",111,1773,65908,17370
+7748792,638614,PMSBY,2019-04-21,2063-01-04,"Critical Illness Insurance Plan",73,1748,55836,91871
+7756270,246626,"Assicurazioni Generali",2019-04-09,2060-06-04,"Health Maintenance Organization  Plan",73,1164,90743,79427
+7762074,750703,"China ",2019-11-08,2057-12-08,"Individual Health Insurance Plan",25,1836,86310,82041
+7782636,493774,"Bharti AXA ",2019-12-17,2059-07-18,"Preferred Provider Organization  Plan",114,1656,61417,70856
+7786015,310220,"Universal Sompo ",2019-08-25,2064-09-18,"Critical Illness Insurance Plan",54,1423,60385,15063
+7828477,623053,"Liberty Videocon ",2019-05-17,2062-02-19,"Family Floater Health Insurance Plan",165,286,53566,83382
+7838081,308572,"Shriram ",2019-02-15,2062-03-22,"Family Floater Health Insurance Plan",98,1839,48346,60096
+7842140,206552,MetLife,2019-03-30,2052-06-03,"Preferred Provider Organization  Plan",129,977,73432,80413
+7842555,867348,"UnitedHealth ",2019-03-22,2057-02-10,"Individual Health Insurance Plan",1,295,95204,19093
+7843828,674105,"Centene ",2019-09-30,2055-03-17,"Health Maintenance Organization  Plan",191,530,63909,35123
+7847639,320786,MetLife,2019-09-16,2050-07-25,"Preferred Provider Organization  Plan",150,646,65825,90532
+7867990,282297,"IndiaFirst  ",2019-08-17,2060-12-13,"Preferred Provider Organization  Plan",155,1439,65881,54782
+7870121,516500,RSBY,2019-05-02,2060-08-07,"Health Maintenance Organization  Plan",88,370,53668,43768
+7881246,501496,"Magma HDI ",2019-09-11,2062-10-15,"Senior Citizen Health Insurance Plan",89,1476,42209,15977
+7888099,776126,Humana,2019-04-28,2050-12-23,"Health Maintenance Organization  Plan",200,1411,39896,73288
+7890612,156461,"Bharti AXA  ",2019-02-21,2064-11-08,"Family Floater Health Insurance Plan",52,1148,57690,44995
+7896270,668225,"New York  Company",2019-12-15,2062-05-25,"Individual Health Insurance Plan",50,1644,52737,99091
+7896884,634649,"Apollo Munich Health ",2019-09-14,2059-06-20,"Health Maintenance Organization  Plan",113,1096,39052,15599
+7912131,297089,"Cholamandalam ",2019-04-16,2050-06-19,"Individual Health Insurance Plan",160,1158,46854,70296
+7981670,734347,"L&T ",2019-01-20,2052-09-08,"Preferred Provider Organization  Plan",193,1847,43775,60959
+8012506,825281,"Liberty Videocon ",2019-02-13,2058-05-11,"Individual Health Insurance Plan",135,949,98578,24162
+8015338,366438,Humana,2019-02-19,2059-06-30,"Preferred Provider Organization  Plan",82,396,58925,22821
+8019175,617181,"Cholamandalam ",2019-09-29,2064-04-06,"Individual Health Insurance Plan",120,1621,82188,26300
+8019309,960952,"Assicurazioni Generali",2019-12-10,2057-01-20,"Critical Illness Insurance Plan",54,758,37798,58294
+8027500,501920,"Raheja QBE ",2019-05-18,2051-05-29,"Critical Illness Insurance Plan",55,1217,48250,73982
+8045758,874826,Axa,2019-04-02,2054-07-06,"Individual Health Insurance Plan",157,337,47319,75790
+8050593,565935,"Munich Re",2019-01-27,2057-05-26,"Senior Citizen Health Insurance Plan",17,1687,68545,78036
+8072851,910752,"Exide  ",2019-05-05,2062-08-31,"Preferred Provider Organization  Plan",195,784,47736,58330
+8125940,348936,"New York  Company",2019-07-13,2052-04-06,"Individual Health Insurance Plan",108,1387,31191,91391
+8141940,502009,"Reliance ",2019-07-18,2055-07-26,"Health Maintenance Organization  Plan",85,1058,39181,90373
+8145365,122443," Lic india",2020-01-02,2061-01-24,"Family Floater Health Insurance Plan",14,350,89337,98157
+8146623,943695,"TATA AIG ",2019-03-13,2063-07-25,"Family Floater Health Insurance Plan",66,1585,95894,47074
+8153299,147932,HDI,2019-10-16,2050-08-25,"Critical Illness Insurance Plan",125,1500,67877,99335
+8159852,114381,Aviva,2019-12-20,2058-07-02,"Individual Health Insurance Plan",6,1017,64351,62453
+8161036,656327,"American  ",2019-08-31,2061-12-16,"Family Floater Health Insurance Plan",200,1881,53137,27402
+8165468,483579,"Future Generali India  ",2019-11-09,2061-04-05,"Family Floater Health Insurance Plan",130,626,40278,77978
+8193267,228046,"JA Kyosai",2019-03-25,2055-04-19,"Individual Health Insurance Plan",82,1420,96168,52792
+8224334,809283,"Reliance  ",2019-09-09,2061-07-24,"Senior Citizen Health Insurance Plan",185,904,81806,69286
+8230057,752690,"Assicurazioni Generali",2019-07-24,2055-12-22,"Critical Illness Insurance Plan",41,1078,99077,40537
+8245912,235227,"UnitedHealth ",2019-11-16,2052-08-08,"Family Floater Health Insurance Plan",38,1033,49819,36403
+8267467,641285,Allianz,2019-10-13,2057-04-22,"Individual Health Insurance Plan",99,1127,78682,51519
+8276875,685346,"Nippon Life",2019-11-10,2065-04-16,"Individual Health Insurance Plan",99,855,79708,18266
+8282135,104622,MetLife,2019-11-19,2056-03-05,"Preferred Provider Organization  Plan",22,1836,87351,25633
+8291338,383987,"Canara HSBC   ",2019-09-09,2062-12-09,"Critical Illness Insurance Plan",159,1959,41745,83606
+8297936,530449,"CNP Assurances",2019-12-15,2059-05-06,"Health Maintenance Organization  Plan",131,747,44586,89817
+8306408,611459,"Sahara India  ",2019-11-06,2063-04-24,"Health Maintenance Organization  Plan",149,1902,53619,69402
+8309102,438060,"Nippon Life",2019-07-09,2061-07-29,"Individual Health Insurance Plan",108,1265,51250,21570
+8328446,738829,"Shriram ",2019-07-11,2058-02-23,"Individual Health Insurance Plan",40,502,73822,21923
+8330064,217643,"American  ",2019-07-14,2058-02-16,"Family Floater Health Insurance Plan",11,260,74798,36869
+8350566,325896,"Manulife Financial",2019-08-17,2063-06-18,"Critical Illness Insurance Plan",5,803,32089,47931
+8353200,346197," Lic india",2019-08-12,2056-12-21,"Family Floater Health Insurance Plan",93,1387,74830,69406
+8361532,680039,"Berkshire Hathaway",2019-05-16,2062-11-03,"Family Floater Health Insurance Plan",54,1416,33369,49028
+8367423,304487,"Raheja QBE ",2019-06-22,2065-02-24,"Critical Illness Insurance Plan",13,1863,59162,16729
+8374795,762987,"Prudential plc",2019-12-23,2051-03-29,"Family Floater Health Insurance Plan",11,298,75527,16108
+8375367,937241,"Reliance ",2019-10-10,2051-11-02,"Critical Illness Insurance Plan",13,1939,69398,63958
+8380848,106153,"China ",2019-12-31,2053-06-30,"Family Floater Health Insurance Plan",89,775,51112,30184
+8401508,581970,"Dai-ichi Life",2019-12-23,2054-07-27,"Health Maintenance Organization  Plan",197,1074,41858,11680
+8404048,408504,"Bharti AXA ",2019-08-08,2057-08-07,"Preferred Provider Organization  Plan",189,1080,80323,31342
+8442646,801413,"DHFL Pramerica  ",2019-10-17,2064-07-03,"Critical Illness Insurance Plan",78,909,54614,52083
+8450141,667253,"Great-West Lifeco",2019-09-16,2051-06-09,"Critical Illness Insurance Plan",35,1904,60736,37511
+8461773,446858,"CNP Assurances",2019-02-26,2050-08-28,"Health Maintenance Organization  Plan",139,1290,79412,65750
+8472262,517443,Allianz,2019-09-05,2060-03-21,"Individual Health Insurance Plan",162,1766,50820,96180
+8474830,933158,"IFFCO-Tokio ",2019-04-24,2058-06-10,"Critical Illness Insurance Plan",58,1196,63758,14221
+8479244,413939,"Raheja QBE ",2019-09-24,2057-08-15,"Critical Illness Insurance Plan",84,1401,34849,40548
+8509271,490738,"PNB MetLife India ",2019-09-25,2061-01-21,"Senior Citizen Health Insurance Plan",162,769,55866,72540
+8514885,303148,"Liberty Videocon ",2019-09-03,2055-06-29,"Family Floater Health Insurance Plan",158,1652,78584,85312
+8521543,174398,"SBI  ",2019-07-26,2064-02-23,"Preferred Provider Organization  Plan",65,1572,34162,46628
+8524327,438777,"Manulife Financial",2019-07-04,2056-05-20,"Critical Illness Insurance Plan",123,1167,31814,90796
+8533580,935978,"Liberty Videocon ",2019-01-06,2058-11-12,"Individual Health Insurance Plan",133,385,47785,30704
+8537983,881120,"State Farm",2019-10-02,2058-03-22,"Preferred Provider Organization  Plan",112,510,74559,81130
+8546664,358937,Allianz,2019-12-09,2055-01-24,"Senior Citizen Health Insurance Plan",139,1141,41117,98146
+8546691,597208,"DHFL Pramerica  ",2019-03-03,2052-04-01,"Health Maintenance Organization  Plan",70,992,61106,17461
+8548245,647303,"Nippon Life",2019-02-12,2060-11-14,"Individual Health Insurance Plan",83,1861,35482,31050
+8560732,927100,"Aditya Birla Health ",2019-01-07,2058-10-22,"Senior Citizen Health Insurance Plan",103,1557,31545,44683
+8561213,787063,MetLife,2019-06-18,2065-04-02,"Health Maintenance Organization  Plan",55,1931,57599,24696
+8584798,493344,"Tata AIA  ",2019-01-31,2057-03-24,"Senior Citizen Health Insurance Plan",165,397,59415,31280
+8587049,950394,"Religare Health ",2019-01-13,2053-04-20,"Individual Health Insurance Plan",44,1075,53346,29143
+8592158,700937,"Canara HSBC   ",2019-10-02,2062-10-29,"Critical Illness Insurance Plan",180,1376,74901,33851
+8592745,829430,"Royal Sundaram Alliance ",2019-07-24,2050-10-10,"Health Maintenance Organization  Plan",138,925,35156,39424
+8618432,267227,"LIC INDIA",2019-05-18,2060-05-15,"Critical Illness Insurance Plan",31,553,41707,68217
+8622189,601857,"IDBI Federal  ",2019-12-10,2058-05-06,"Health Maintenance Organization  Plan",58,276,63295,77865
+8631684,475423,"Aegon  ",2019-03-31,2057-03-07,"Health Maintenance Organization  Plan",178,1457,69054,63352
+8631761,836975,"Star Health Allied ",2019-12-01,2059-11-12,"Health Maintenance Organization  Plan",171,1278,97582,19374
+8656305,255833,"Nippon Life",2019-09-14,2057-10-17,"Individual Health Insurance Plan",162,1584,64209,72724
+8676747,755148,"American  ",2019-11-29,2062-07-15,"Individual Health Insurance Plan",76,970,75716,27923
+8683453,202648,"Cigna TTK Health ",2019-02-06,2061-10-17,"Senior Citizen Health Insurance Plan",78,694,69695,90065
+8684987,394568,"IndiaFirst  ",2019-05-29,2051-01-25,"Preferred Provider Organization  Plan",36,1438,81010,36785
+8706087,451912,"Zurich ",2019-10-21,2065-03-11,"Health Maintenance Organization  Plan",161,509,88501,49056
+8731841,289201,"Reliance  ",2019-11-13,2064-11-15,"Critical Illness Insurance Plan",15,1238,83247,23063
+8746272,291708,"Star Union Dai-Ichi  ",2019-06-04,2054-02-02,"Family Floater Health Insurance Plan",148,814,68572,19635
+8767236,492743,"Shriram  ",2019-11-26,2062-02-05,"Individual Health Insurance Plan",30,943,88578,16519
+8772411,639467,PMJJBY,2019-02-15,2058-10-25,"Preferred Provider Organization  Plan",134,1696,75662,38317
+8796903,638376,"Cigna TTK Health ",2019-12-10,2053-04-13,"Senior Citizen Health Insurance Plan",123,407,71951,66777
+8801898,602312,"IndiaFirst  ",2019-10-05,2054-11-24,"Preferred Provider Organization  Plan",113,1777,58214,12389
+8806236,753419,"Japan Post",2019-08-20,2053-03-12,"Preferred Provider Organization  Plan",57,1857,55827,73316
+8812215,697793,"Aegon  ",2019-11-18,2064-07-08,"Health Maintenance Organization  Plan",5,1645,48079,15193
+8817756,451534," Lic india",2019-06-16,2055-08-25,"Family Floater Health Insurance Plan",116,1388,59922,77130
+8827677,375925,"Nippon Life",2019-12-22,2059-09-04,"Individual Health Insurance Plan",22,1800,94755,50176
+8832737,127140,"Zurich ",2019-01-06,2053-09-18,"Health Maintenance Organization  Plan",118,1149,33974,10950
+8836403,878361,"Assicurazioni Generali",2019-09-25,2056-02-09,"Critical Illness Insurance Plan",145,984,42386,92236
+8861117,694197,"LIC INDIA",2019-11-06,2058-01-27,"Critical Illness Insurance Plan",76,438,47494,65969
+8867038,553189,"People's Company of China",2019-10-14,2057-01-21,"Critical Illness Insurance Plan",129,1422,92260,23731
+8870917,336860,"Aegon N.V.",2019-09-10,2059-01-04,"Critical Illness Insurance Plan",43,1762,60016,12397
+8880938,294609,"Aditya Birla Health ",2019-06-20,2064-04-08,"Critical Illness Insurance Plan",66,743,36103,10468
+8883767,481785,"Edelweiss Tokio  ",2019-10-31,2064-08-17,"Preferred Provider Organization  Plan",108,1731,51548,43836
+8885278,500666,"L&T ",2019-04-21,2052-04-07,"Individual Health Insurance Plan",126,1246,35054,33534
+8888027,105667,"Nippon Life",2019-12-11,2056-11-11,"Individual Health Insurance Plan",31,1520,63956,78726
+8888422,583626,"Progressive ",2019-06-20,2054-06-03,"Family Floater Health Insurance Plan",170,1543,97409,99841
+8893446,517043,PMJJBY,2019-04-13,2058-06-13,"Preferred Provider Organization  Plan",95,504,66558,39240
+8920053,320898,"Nippon Life",2019-06-24,2052-03-03,"Individual Health Insurance Plan",79,340,97390,82636
+8930130,618010,"HDFC ERGO ",2019-06-13,2051-10-11,"Senior Citizen Health Insurance Plan",106,1292,84793,61087
+8943065,151151,MetLife,2019-12-15,2060-09-29,"Preferred Provider Organization  Plan",91,669,30001,64870
+8946870,508491,"Universal Sompo ",2019-02-28,2052-01-04,"Critical Illness Insurance Plan",19,1843,75525,80350
+8958822,457694,"Centene ",2019-01-14,2064-10-19,"Health Maintenance Organization  Plan",50,1812,81038,92233
+8970384,936928,"Raheja QBE ",2019-06-04,2064-03-13,"Senior Citizen Health Insurance Plan",46,494,41174,97468
+8980852,335136,"Dai-ichi Life",2019-07-21,2051-06-19,"Senior Citizen Health Insurance Plan",80,1272,41756,30261
+8999273,804823,"ICICI Prudential  ",2019-09-09,2051-01-15,"Senior Citizen Health Insurance Plan",121,1251,60020,95711
+9006735,552482,Allianz,2019-09-14,2051-02-20,"Senior Citizen Health Insurance Plan",97,272,62504,17082
+9009983,384644,"DHFL Pramerica  ",2019-12-26,2054-10-01,"Health Maintenance Organization  Plan",19,853,67761,33985
+9040494,948528,"Star Health Allied ",2019-12-10,2064-06-03,"Health Maintenance Organization  Plan",177,779,41828,17536
+9053988,871853,"Centene ",2019-01-02,2054-12-28,"Critical Illness Insurance Plan",14,1746,43875,42321
+9055494,104251,"Ping An",2019-12-31,2057-12-08,"Critical Illness Insurance Plan",29,1026,78389,72578
+9058761,579066,HDI,2019-05-02,2061-02-24,"Critical Illness Insurance Plan",149,1242,77953,86852
+9075626,166812,"IDBI Federal  ",2019-09-10,2057-09-25,"Health Maintenance Organization  Plan",198,470,72714,90290
+9077399,112815,Aviva,2019-03-26,2053-10-31,"Preferred Provider Organization  Plan",141,322,66782,73759
+9097883,214606,"Japan Post",2019-09-01,2050-09-14,"Individual Health Insurance Plan",61,1717,50176,75030
+9113322,321510,"China ",2019-08-23,2061-09-09,"Family Floater Health Insurance Plan",56,932,68473,43800
+9115311,735413,"Raheja QBE ",2019-03-13,2063-04-03,"Senior Citizen Health Insurance Plan",54,1486,84136,48832
+9131710,678822,"People's Company of China",2019-09-23,2064-02-15,"Critical Illness Insurance Plan",193,1761,59332,56439
+9168819,464256,"Berkshire Hathaway",2019-11-12,2054-07-05,"Family Floater Health Insurance Plan",66,1896,90674,34278
+9170134,462578,"State Farm",2019-04-30,2053-12-26,"Individual Health Insurance Plan",101,1694,40612,99528
+9219351,211471,"China ",2019-12-02,2050-09-01,"Family Floater Health Insurance Plan",141,1258,64034,30513
+9219956,174155,"Reliance  ",2019-08-03,2056-06-06,"Critical Illness Insurance Plan",125,1969,41584,78832
+9221793,115210,"Dai-ichi Life",2019-12-11,2064-01-27,"Senior Citizen Health Insurance Plan",21,1393,43752,81203
+9221946,410824,"IFFCO-Tokio ",2019-06-24,2063-01-20,"Health Maintenance Organization  Plan",57,275,89126,32157
+9226616,541409,"Great-West Lifeco",2019-07-06,2055-01-13,"Critical Illness Insurance Plan",111,902,46580,94158
+9231017,750734,"Legal & General",2019-07-03,2054-07-05,"Family Floater Health Insurance Plan",126,475,39628,92387
+9234961,450881,"JA Kyosai",2019-01-23,2057-08-23,"Individual Health Insurance Plan",163,1970,72369,84399
+9245911,526142,Aviva,2019-02-23,2064-10-21,"Preferred Provider Organization  Plan",179,901,53521,97845
+9248024,561062,"State Farm",2019-11-18,2062-07-10,"Individual Health Insurance Plan",48,832,86371,12783
+9256756,457571,"China ",2019-05-15,2064-12-17,"Critical Illness Insurance Plan",152,341,95349,19334
+9272949,317731,RSBY,2019-09-05,2057-06-25,"Health Maintenance Organization  Plan",67,1131,78676,41940
+9306541,618683,"ICICI Lombard ",2019-03-30,2059-07-22,"Critical Illness Insurance Plan",81,648,88087,63454
+9308885,680968,"Munich Re",2019-09-13,2052-07-23,"Senior Citizen Health Insurance Plan",71,1116,99311,62935
+9328083,689085,"JA Kyosai",2019-02-25,2060-03-26,"Senior Citizen Health Insurance Plan",46,1476,40918,42148
+9337533,921624,"Reliance  ",2019-02-21,2056-06-06,"Senior Citizen Health Insurance Plan",74,1611,32300,86051
+9350917,937355,"Royal Sundaram Alliance ",2019-08-20,2062-02-23,"Health Maintenance Organization  Plan",110,1057,49488,63212
+9365845,901146,"Aviva  Co. India Ltd.",2019-09-19,2064-11-11,"Health Maintenance Organization  Plan",137,1965,64439,27260
+9367907,950222,"Max Bupa Health ",2019-05-16,2052-10-23,"Preferred Provider Organization  Plan",114,1518,83124,24802
+9370017,293447,"Tata AIA  ",2019-10-11,2056-09-08,"Senior Citizen Health Insurance Plan",37,1486,79748,96879
+9392302,693281,"Liberty Mutual",2019-07-07,2059-03-29,"Individual Health Insurance Plan",163,1234,41915,52686
+9397147,543140,"Zurich ",2019-06-06,2064-08-07,"Health Maintenance Organization  Plan",67,1669,48942,61517
+9422449,600956,"ICICI Prudential  ",2019-12-25,2052-05-13,"Critical Illness Insurance Plan",91,1537,99303,24760
+9425693,468737,"Nippon Life",2019-07-09,2051-05-16,"Individual Health Insurance Plan",12,897,32140,12621
+9427494,305045,"Royal Sundaram Alliance ",2019-06-16,2053-04-16,"Preferred Provider Organization  Plan",47,1046,77715,21852
+9434498,274440,"Canara HSBC   ",2019-09-08,2055-05-09,"Critical Illness Insurance Plan",55,524,58692,26885
+9440683,404813,"Tata AIA  ",2019-07-19,2062-07-20,"Senior Citizen Health Insurance Plan",7,982,72891,83050
+9447845,639217,RSBY,2019-02-21,2061-10-10,"Health Maintenance Organization  Plan",147,1776,98794,80835
+9448278,879522,Humana,2019-06-19,2064-12-07,"Health Maintenance Organization  Plan",123,775,42711,33289
+9464113,128030,"Ping An",2019-06-15,2051-10-19,"Senior Citizen Health Insurance Plan",48,1298,60104,10273
+9465604,199656,"Star Health Allied ",2019-01-21,2057-01-16,"Preferred Provider Organization  Plan",112,1263,80166,98717
+9468776,600405,"Future Generali India  ",2020-01-04,2060-12-08,"Family Floater Health Insurance Plan",175,1846,73884,74688
+9478147,443417,"American  ",2019-06-06,2064-09-02,"Family Floater Health Insurance Plan",68,264,65192,52464
+9479741,510503,"Religare Health ",2019-09-27,2061-01-01,"Family Floater Health Insurance Plan",158,1730,57694,80593
+9508545,290904,"Shriram  ",2019-09-28,2050-06-08,"Individual Health Insurance Plan",0,1827,79551,30550
+9555365,418254,"Universal Sompo ",2019-09-10,2055-09-20,"Critical Illness Insurance Plan",129,1375,99549,13722
+9559994,912614,"ICICI Prudential  ",2019-03-26,2061-07-26,"Senior Citizen Health Insurance Plan",1,551,51567,53718
+9577753,262779,"Liberty Mutual",2019-10-11,2053-02-01,"Individual Health Insurance Plan",38,1221,31036,11472
+9579817,346314,"Prudential plc",2019-12-28,2057-04-18,"Senior Citizen Health Insurance Plan",182,1661,64672,34710
+9634126,813105,"Tata AIA  ",2019-07-11,2059-04-04,"Family Floater Health Insurance Plan",192,1132,66234,34861
+9652719,799084,"Canara HSBC   ",2019-07-20,2052-07-29,"Senior Citizen Health Insurance Plan",7,1492,92422,99089
+9657256,945844,"Apollo Munich Health ",2019-12-24,2053-11-25,"Critical Illness Insurance Plan",64,762,36070,52327
+9673497,612490,"Shriram  ",2019-11-20,2061-02-02,"Individual Health Insurance Plan",138,709,70808,94563
+9687958,892575,HDI,2019-05-07,2057-10-14,"Senior Citizen Health Insurance Plan",185,900,97806,69131
+9710445,393796,"IDBI Federal  ",2019-08-01,2064-07-10,"Health Maintenance Organization  Plan",147,1024,91941,73368
+9714695,920083,"PNB MetLife India ",2019-12-05,2058-04-29,"Family Floater Health Insurance Plan",33,315,63623,36338
+9717010,952641,Allianz,2019-07-15,2054-09-06,"Preferred Provider Organization  Plan",157,500,41683,71232
+9738166,655619,"Japan Post",2019-03-14,2060-05-25,"Individual Health Insurance Plan",173,403,96904,75457
+9742453,649476,"Manulife Financial",2019-11-28,2056-02-22,"Critical Illness Insurance Plan",140,1988,73141,95318
+9752423,737932,"Royal Sundaram Alliance ",2020-01-04,2051-11-23,"Health Maintenance Organization  Plan",142,383,54147,38359
+9756199,893659,"Dai-ichi Life",2019-04-26,2050-10-25,"Critical Illness Insurance Plan",119,1519,44616,87104
+9762633,803624,"Edelweiss Tokio  ",2019-06-21,2061-06-21,"Health Maintenance Organization  Plan",193,1630,51038,38461
+9766826,803944,"Exide  ",2019-07-17,2059-10-01,"Preferred Provider Organization  Plan",34,340,46516,77615
+9769439,614921,"Aditya Birla Health ",2019-05-07,2063-08-24,"Critical Illness Insurance Plan",87,1166,72804,90146
+9777480,108161,"Manulife Financial",2019-01-18,2059-01-24,"Critical Illness Insurance Plan",190,1820,96428,98243
+9777537,265250,"Progressive ",2019-01-29,2056-02-09,"Family Floater Health Insurance Plan",151,1990,84771,14222
+9778769,233820,"Zurich ",2019-12-19,2062-12-26,"Health Maintenance Organization  Plan",32,1262,33255,65365
+9780503,187667,"L&T ",2019-02-10,2057-12-15,"Individual Health Insurance Plan",35,629,96754,30118
+9785526,528000,"Dai-ichi Life",2019-09-16,2059-10-16,"Senior Citizen Health Insurance Plan",12,1543,61248,65711
+9788673,866362,"New York  Company",2019-07-05,2057-04-25,"Preferred Provider Organization  Plan",73,1522,44765,83478
+9833211,841858,RSBY,2019-09-26,2054-08-24,"Critical Illness Insurance Plan",21,1748,40590,33599
+9834507,659535,"Dai-ichi Life",2019-03-02,2054-06-19,"Senior Citizen Health Insurance Plan",41,1291,89034,26066
+9835181,957542,"Legal & General",2019-09-04,2050-12-02,"Family Floater Health Insurance Plan",80,1802,31258,47512
+9858012,942585,"SBI ",2019-04-08,2053-08-16,"Preferred Provider Organization  Plan",104,513,30146,89530
+9901078,427580,Allianz,2019-09-08,2063-08-17,"Individual Health Insurance Plan",199,1165,92517,99656
+9909920,222698,"Aegon N.V.",2019-12-10,2061-09-29,"Critical Illness Insurance Plan",194,1846,41243,65841
+9919077,705308,"Edelweiss Tokio  ",2019-11-05,2058-04-19,"Preferred Provider Organization  Plan",156,1388,31100,49828
+9945875,764709,"Great-West Lifeco",2019-02-09,2055-12-13,"Senior Citizen Health Insurance Plan",105,800,95609,36653
+9951725,377057,"Dai-ichi Life",2019-12-10,2051-04-05,"Health Maintenance Organization  Plan",121,1310,73801,57744
+9958083,403126,"Shriram  ",2019-03-11,2060-06-08,"Individual Health Insurance Plan",15,1474,59706,12488
+9979695,525490,"Manulife Financial",2019-09-23,2060-11-07,"Critical Illness Insurance Plan",22,1166,97238,58676
+9986057,706444,"ICICI Prudential  ",2019-08-13,2061-04-10,"Critical Illness Insurance Plan",158,651,57856,50554
+9993488,519225,"Berkshire Hathaway",2019-09-12,2064-11-17,"Health Maintenance Organization  Plan",58,521,97993,10223
+9998304,842301,PMJJBY,2019-07-24,2061-11-30,"Health Maintenance Organization  Plan",179,1020,46820,53019
+10280787,983811,"Kaiser Permanente",2019-11-10,2051-07-05,"Critical Illness Insurance Plan",7,1161,92571,66825
+17224402,998470,"Health Care Service ",2019-07-15,2059-04-12,"Individual Health Insurance Plan",111,1400,60557,45129
+18473414,990423,Humana,2019-07-15,2064-11-11,"Senior Citizen Health Insurance Plan",128,1313,78855,69753
+18998116,979755,"Ping An",2019-08-28,2057-08-20,"Preferred Provider Organization  Plan",58,497,47494,88961
+25268689,994008,"CVS Health",2019-02-28,2053-07-01,"Individual Health Insurance Plan",144,1221,45606,14898
+25538884,976093,"Bharti AXA ",2019-03-22,2060-02-18,"Family Floater Health Insurance Plan",162,680,94172,43537
+26261993,967897,"Max  ",2019-09-20,2059-04-17,"Critical Illness Insurance Plan",70,1767,33369,22033
+26848190,978704,"Future Generali India ",2019-11-29,2053-09-22,"Critical Illness Insurance Plan",172,837,77389,93706
+30195407,973450,"Shriram  ",2019-05-21,2064-12-07,"Senior Citizen Health Insurance Plan",158,460,79708,39888
+31585166,978731,"HDFC ERGO ",2019-01-02,2064-12-10,"Health Maintenance Organization  Plan",46,428,92002,10273
+34810203,991615,"Berkshire Hathaway",2019-03-29,2051-04-06,"Health Maintenance Organization  Plan",194,1433,69576,63766
+39204715,998721,"JA Kyosai",2019-12-11,2056-09-05,"Family Floater Health Insurance Plan",20,1846,32505,99335
+39358638,972382,"Sahara India  ",2019-06-28,2057-07-26,"Individual Health Insurance Plan",42,272,77830,68846
+41140906,974031,"Star Union Dai-Ichi  ",2019-12-15,2058-03-22,"Critical Illness Insurance Plan",153,370,87712,98157
+43784226,976048,"Bajaj Allianz ",2019-07-05,2058-12-19,"Individual Health Insurance Plan",95,1687,66942,10950
+44393684,999482,HDI,2019-03-29,2056-04-04,"Senior Citizen Health Insurance Plan",179,965,55090,74801
+45565601,983875,Axa,2019-09-25,2056-06-17,"Health Maintenance Organization  Plan",22,1715,65043,43524
+46991105,975028,"Tata AIA  ",2019-04-09,2052-04-02,"Health Maintenance Organization  Plan",103,832,40918,17370
+61251034,983424,Anthem,2019-10-31,2065-03-06,"Senior Citizen Health Insurance Plan",200,1074,40445,95246
+63285515,989676,"Assicurazioni Generali",2019-07-27,2051-09-16,"Family Floater Health Insurance Plan",72,1103,31100,99573
+66766130,981540,"Centene ",2019-04-02,2050-10-25,"Family Floater Health Insurance Plan",22,1242,32871,27695
+67977511,970801,"Reliance  ",2019-10-24,2057-01-22,"Preferred Provider Organization  Plan",119,382,30668,89837
+69530331,996296,"China Pacific Company",2019-12-27,2056-04-04,"Senior Citizen Health Insurance Plan",37,992,49094,81723
+69900317,968635,"PNB MetLife India ",2019-02-01,2054-07-06,"Health Maintenance Organization  Plan",19,677,99311,81203
+71109050,986507,Allianz,2019-06-19,2054-09-24,"Preferred Provider Organization  Plan",20,1543,74901,32827
+72441990,999887,"Dai-ichi Life",2019-04-03,2062-08-31,"Critical Illness Insurance Plan",72,1537,83660,64870
+77141037,997750,"Nippon Life",2019-05-07,2062-08-31,"Critical Illness Insurance Plan",142,607,81607,57723
+78324437,964774,"ICICI Prudential  ",2019-04-01,2057-02-10,"Preferred Provider Organization  Plan",85,1371,59332,98243
+78339056,995701," Lic india",2019-02-17,2056-09-05,"Family Floater Health Insurance Plan",18,1296,76819,15172
+79175536,991369,"State Farm",2019-12-11,2054-01-24,"Critical Illness Insurance Plan",12,321,94830,70717
+82744680,976403,"Cholamandalam ",2019-12-06,2061-01-24,"Senior Citizen Health Insurance Plan",9,1240,41915,51298
+87898193,966581,"IndiaFirst  ",2019-07-25,2054-12-28,"Family Floater Health Insurance Plan",167,522,52270,73759
+88618755,964837,"IDBI Federal  ",2019-10-02,2062-02-04,"Individual Health Insurance Plan",72,1871,52546,19330
+89837134,979762,"China ",2019-02-20,2057-10-14,"Individual Health Insurance Plan",155,408,48079,79315
+91302445,991884,"Munich Re",2019-04-03,2052-05-25,"Preferred Provider Organization  Plan",131,1610,57856,78401
+92760100,987703,"People's Company of China",2019-10-02,2051-04-27,"Individual Health Insurance Plan",179,423,98483,13771
+93058575,972655,"SBI  ",2019-10-29,2056-02-09,"Family Floater Health Insurance Plan",192,1422,34816,25903
